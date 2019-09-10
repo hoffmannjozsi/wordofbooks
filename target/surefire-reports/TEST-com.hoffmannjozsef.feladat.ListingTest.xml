@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.hoffmannjozsef.feladat.ListingTest" time="1.095" tests="6" errors="6" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.class.path" value="C:\Users\Hoffmann József\Documents\JAVA\worldofbook\wob-feladat\target\test-classes;C:\Users\Hoffmann József\Documents\JAVA\worldofbook\wob-feladat\target\classes;C:\Users\Hoffmann József\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Hoffmann József\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Hoffmann József\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.9\jackson-databind-2.9.9.jar;C:\Users\Hoffmann József\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\Hoffmann József\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.9\jackson-core-2.9.9.jar;C:\Users\Hoffmann József\.m2\repository\mysql\mysql-connector-java\8.0.17\mysql-connector-java-8.0.17.jar;C:\Users\Hoffmann József\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\Hoffmann József\.m2\repository\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar;C:\Users\Hoffmann József\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Hoffmann József\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar;C:\Users\Hoffmann József\.m2\repository\net\minidev\accessors-smart\1.2\accessors-smart-1.2.jar;C:\Users\Hoffmann József\.m2\repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar;C:\Users\Hoffmann József\.m2\repository\org\mockito\mockito-all\1.9.5\mockito-all-1.9.5.jar;C:\Users\Hoffmann József\.m2\repository\commons-net\commons-net\3.6\commons-net-3.6.jar;C:\Users\Hoffmann József\.m2\repository\org\apache\commons\commons-math3\3.5\commons-math3-3.5.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Prague"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="HU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\HOFFMA~1\AppData\Local\Temp\surefire1686022810465628746\surefirebooter4046008007382111505.jar C:\Users\Hoffmann József\AppData\Local\Temp\surefire1686022810465628746 2019-09-10T21-33-47_583-jvmRun1 surefire6476365710904179865tmp surefire_08303747519147455215tmp"/>
+    <property name="test" value="com.hoffmannjozsef.feladat.ListingTest"/>
+    <property name="surefire.test.class.path" value="C:\Users\Hoffmann József\Documents\JAVA\worldofbook\wob-feladat\target\test-classes;C:\Users\Hoffmann József\Documents\JAVA\worldofbook\wob-feladat\target\classes;C:\Users\Hoffmann József\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Hoffmann József\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Hoffmann József\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.9\jackson-databind-2.9.9.jar;C:\Users\Hoffmann József\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\Hoffmann József\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.9\jackson-core-2.9.9.jar;C:\Users\Hoffmann József\.m2\repository\mysql\mysql-connector-java\8.0.17\mysql-connector-java-8.0.17.jar;C:\Users\Hoffmann József\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\Hoffmann József\.m2\repository\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar;C:\Users\Hoffmann József\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Hoffmann József\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar;C:\Users\Hoffmann József\.m2\repository\net\minidev\accessors-smart\1.2\accessors-smart-1.2.jar;C:\Users\Hoffmann József\.m2\repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar;C:\Users\Hoffmann József\.m2\repository\org\mockito\mockito-all\1.9.5\mockito-all-1.9.5.jar;C:\Users\Hoffmann József\.m2\repository\commons-net\commons-net\3.6\commons-net-3.6.jar;C:\Users\Hoffmann József\.m2\repository\org\apache\commons\commons-math3\3.5\commons-math3-3.5.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Hoffmann József"/>
+    <property name="user.language" value="hu"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_202\jre"/>
+    <property name="basedir" value="C:\Users\Hoffmann József\Documents\JAVA\worldofbook\wob-feladat"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\HOFFMA~1\AppData\Local\Temp\surefire1686022810465628746\surefirebooter4046008007382111505.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="user.name" value="Hoffmann József"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Programok\netbeans\java\maven-nblib\netbeans-eventspy.jar;C:\Programok\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Hoffmann József\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\HOFFMA~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="user.dir" value="C:\Users\Hoffmann József\Documents\JAVA\worldofbook\wob-feladat"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Git\cmd;c:\Program Files\Java\jdk1.8.0_202\;c:\Program Files\Java\jdk1.8.0_202\bin\;c:\Programok\Gradle\gradle-5.4\\bin;c:\Programok\Groovy\groovy-2.5.6\bin;c:\Programok\Spring\spring-2.1.4.RELEASE\\bin;c:\Programok\Maven\apache-maven-3.6.1\bin;C:\Users\Hoffmann József\AppData\Local\Microsoft\WindowsApps;C:\Users\Hoffmann József\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testIsValidTitle" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.048">
+    <error message="Uncompilable source code - Erroneous sym type: lst.setTitle" type="java.lang.RuntimeException">java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: lst.setTitle
+	at com.hoffmannjozsef.feladat.ListingTest.testIsValidTitle(ListingTest.java:94)
+</error>
+  </testcase>
+  <testcase name="testIsValidListingPrice" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.003">
+    <error message="Uncompilable source code - Erroneous sym type: lst.setListing_price" type="java.lang.RuntimeException">java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: lst.setListing_price
+	at com.hoffmannjozsef.feladat.ListingTest.testIsValidListingPrice(ListingTest.java:157)
+</error>
+  </testcase>
+  <testcase name="testIsValidId" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.02">
+    <error type="java.lang.NullPointerException">java.lang.NullPointerException
+	at com.hoffmannjozsef.feladat.ListingTest.testIsValidId(ListingTest.java:73)
+</error>
+  </testcase>
+  <testcase name="testIsValidDescription" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.004">
+    <error message="Uncompilable source code - Erroneous sym type: lst.setDescription" type="java.lang.RuntimeException">java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: lst.setDescription
+	at com.hoffmannjozsef.feladat.ListingTest.testIsValidDescription(ListingTest.java:112)
+</error>
+  </testcase>
+  <testcase name="testIsValidCurrency" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.003">
+    <error message="Uncompilable source code - Erroneous sym type: lst.setCurrency" type="java.lang.RuntimeException">java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: lst.setCurrency
+	at com.hoffmannjozsef.feladat.ListingTest.testIsValidCurrency(ListingTest.java:199)
+</error>
+  </testcase>
+  <testcase name="testIsValidLocationId" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.002">
+    <error message="Uncompilable source code - Erroneous sym type: lst.setLocation_id" type="java.lang.RuntimeException">java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: lst.setLocation_id
+	at com.hoffmannjozsef.feladat.ListingTest.testIsValidLocationId(ListingTest.java:131)
+</error>
+  </testcase>
+</testsuite>
