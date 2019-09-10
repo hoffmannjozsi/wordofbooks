@@ -7,7 +7,7 @@ import java.util.HashSet;
  * @author Hoffmann József
  */
 public interface DataStoringRepositoryInterface {
-    public void truncateTable();
+    public void truncateTable(String tableName);
     public void addListingStatus(ListingStatus lst);
     public void addMarketplace(Marketplace mp);
     public void addLocation(Location loc);

@@ -37,10 +37,14 @@ public class App
 	//Riportok elkészítése
 	//Create Report
         ReportToJson rj = new ReportToJson(myconf, conn);
+        System.out.println("The report.json is ready");
                 
 	//Riport feltöltése ftp-vel
 	//Upload report with ftp
         FTPUpload ftpUp = new FTPUpload(myconf);
-		
+	System.out.println("Everything is ready");
+        System.out.println("Thank you for the opportunity to introduce yourself");
+        System.out.println("Best regards: Hoffmann József");
+        
     }
 }

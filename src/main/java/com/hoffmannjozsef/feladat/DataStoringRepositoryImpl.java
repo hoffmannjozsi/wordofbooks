@@ -15,7 +15,7 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
 
     MyConfig myconf;
     DBConnect conn;
-    private final PreparedStatement truncateTable;
+    private PreparedStatement truncateTable;
     private final PreparedStatement addListingStatus;
     private final PreparedStatement addMarketplace;
     private final PreparedStatement addLocation;
@@ -28,7 +28,7 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
     public DataStoringRepositoryImpl(MyConfig myconf, DBConnect conn) throws SQLException {
         this.myconf = myconf;
         this.conn = conn;
-        this.truncateTable = conn.getConn().prepareStatement("TRUNCATE listing");
+        
         this.addListingStatus = conn.getConn().prepareStatement("INSERT INTO listingstatus(id, status_name) VALUES (?, ?)");
         this.addMarketplace = conn.getConn().prepareStatement("INSERT INTO Marketplace(id, marketplace_name) VALUES (?, ?)");
         this.addLocation = conn.getConn().prepareStatement("INSERT INTO location(id, manager_name, phone, address_primary, "
@@ -43,8 +43,9 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
     }
 
     @Override
-    public void truncateTable() {
+    public void truncateTable(String tableName) {
         try {
+            this.truncateTable = conn.getConn().prepareStatement("TRUNCATE "+ tableName);
             this.truncateTable.executeUpdate();
         } catch (SQLException ex) {
             System.out.println("Hiba a 'listing' tábla kiürítésekor. Üzenet: " + ex.getMessage());
@@ -102,7 +103,6 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
             this.addListing.setInt(7, list.getQuantity());
             this.addListing.setInt(8, list.getListing_status());
             this.addListing.setInt(9, list.getMarketplace());
-            //if (list.getUpload_time()!=null)
             this.addListing.setDate(10, Date.valueOf(list.getUpload_time()));
             this.addListing.setString(11, list.getOwner_email_address());
             this.addListing.executeUpdate();

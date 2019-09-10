@@ -119,14 +119,7 @@ public class ReportRepositoryImpl implements ReportRepositoryInterface {
                 + "GROUP BY ListingYear, ListingMonth, owner_email_address " 
                 + "ORDER BY 1,2,4 desc)");
         
-        
-        
-//        ("CREATE TABLE bestemailspermonth AS + "
-//                + "(SELECT YEAR(upload_time) AS ListingYear, MONTH(upload_time) AS ListingMonth, owner_email_address, COUNT(1) AS emails_count "
-//                + "FROM listing "
-//                + "GROUP BY ListingYear, ListingMonth, owner_email_address "
-//                + "ORDER BY 1,2,4 desc)");
-        this.getBestlisteremailaddressofthemonth = conn.getConn().prepareStatement("SELECT ListingYear, ListingMonth, owner_email_address, "
+         this.getBestlisteremailaddressofthemonth = conn.getConn().prepareStatement("SELECT ListingYear, ListingMonth, owner_email_address, "
                 + "MAX(emails_count) as result "
                 + "FROM bestemailspermonth GROUP BY ListingYear, ListingMonth");
 

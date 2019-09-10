@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import static org.mockito.Mockito.when;
 import org.mockito.runners.MockitoJUnitRunner;
-//import com.hoffmannjozsef.feladat.Listing;
+
 
 /**
  *
@@ -43,9 +43,6 @@ public class ListingTest {
 
     @Before
     public void setUp() {
-        
-        
-        
         locids.add("0fe479bb-fe39-4265-b59f-bb4ac5a060d4"); //first
         locids.add("5ae22efb-f875-4134-a03d-6402efa31dc5"); //mid
         locids.add("5249f33c-fadf-44d9-ab70-471df29c20a6"); //last
@@ -57,7 +54,7 @@ public class ListingTest {
         mplids.add(1);
         mplids.add(2);
         
-	//lst = new Listing(conf, locids, lstids, mplids);
+	lst = new Listing(conf, locids, lstids, mplids);
         //lst.setLogEx(false);
         
     }
@@ -66,11 +63,12 @@ public class ListingTest {
     public void tearDown() {
     }
     
+    Listing lst;
     
     
     @Test
-    public void testIsValidId() {
-        Listing lst = new Listing(conf, locids, lstids, mplids);
+    public void IsValidIdtest() {
+        System.out.println(lst);
         when(conf.getImportLogEx()).thenReturn("0");
         when(conf.getUploadTimeValidation()).thenReturn("1");
         lst.setId(null);

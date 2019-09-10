@@ -32,16 +32,18 @@ public class JsonToDB {
                 System.out.println("Object");
             }
             if (root.isArray()) {
+                //db.truncateTable("listingStatus");
                 for (int i = 0; i < root.size(); i++) {
                     ListingStatus listingStatus = new ListingStatus();
                     listingStatus.setId(root.get(i).get("id").intValue());
                     listingStatus.setStatus_name(root.get(i).get("status_name").asText());
                     db.addListingStatus(listingStatus);
-                }
+                }                
             }
         } catch (IOException ex) {
             System.out.println("Error reading listingStatus" + ex.getMessage());
         }
+        System.out.println("The listingStatus table is loaded");
     }
 
     public void marketplaceToDB() {
@@ -53,6 +55,7 @@ public class JsonToDB {
                 System.out.println("Object");
             }
             if (root.isArray()) {
+                //db.truncateTable("marketplace");
                 for (int i = 0; i < root.size(); i++) {
                     Marketplace mp = new Marketplace();
                     mp.setId(root.get(i).get("id").intValue());
@@ -63,6 +66,7 @@ public class JsonToDB {
         } catch (IOException ex) {
             System.out.println("Error reading marketplace" + ex.getMessage());
         }
+        System.out.println("The marketplace table is loaded");
     }
 
     public void locationToDB() {
@@ -74,6 +78,7 @@ public class JsonToDB {
                 System.out.println("Object");
             }
             if (root.isArray()) {
+                //db.truncateTable("location");
                 for (int i = 0; i < root.size(); i++) {
                     Location lc = new Location();
                     lc.setId(root.get(i).get("id").asText());
@@ -90,6 +95,7 @@ public class JsonToDB {
         } catch (IOException ex) {
             System.out.println("Error reading location" + ex.getMessage());
         }
+        System.out.println("The location table is loaded");
     }
 
     public void listingToDB() {
@@ -108,7 +114,7 @@ public class JsonToDB {
                     pw.print("ListingId;MarketplaceName;InvalidField");
                     pw.println();
                     //Listing tábla kiürítése
-                    db.truncateTable();
+                    db.truncateTable("listing");
                     for (int i = 0; i < root.size(); i++) {
                         
                         Listing list = new Listing(myconf, locids, lstids, mplIds);
@@ -141,11 +147,12 @@ public class JsonToDB {
                 } catch (IOException ex) {
                     System.out.println("Hiba az importLog.csv fájl írása közben.");
                 }
-
+                System.out.println("The importLog.csv is ready.");
             }
         } catch (IOException ex) {
             System.out.println("Error reading listing" + ex.getMessage());
         }
+        System.out.println("The listing table is loaded");
     }
 
 }

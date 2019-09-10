@@ -22,10 +22,11 @@ public class DBConnect {
             try {
                 this.conn = DriverManager.getConnection("jdbc:mysql://" + conf.getHostname() + ":" + conf.getPort()
                         + "?serverTimezone=" + conf.getServerTimezone() + "&useSSL=" + conf.getUseSSL(), conf.getUsername(), conf.getPassword());
-                System.out.println("A híd a MySQL adatbáziskezelővel létrejött (Create)");
-                PreparedStatement pst = conn.prepareStatement("CREATE DATABASE  IF NOT EXISTS " + conf.getDbName());
+                System.out.println("The bridge was created with the MySQL database manager. ");
+                PreparedStatement pst = conn.prepareStatement("DROP DATABASE  IF EXISTS " + conf.getDbName());
+                pst = conn.prepareStatement("CREATE DATABASE  IF NOT EXISTS " + conf.getDbName());
                 if (pst.executeUpdate()==1) 
-                    System.out.println(conf.getDbName() + " adatbázis létrehozva");
+                    System.out.println(conf.getDbName() + " database is ready.");
                 this.conn.close();
                 this.conn = DriverManager.getConnection("jdbc:mysql://" + conf.getHostname() + ":" + conf.getPort() + "/" + conf.getDbName()
                         + "?serverTimezone=" + conf.getServerTimezone() + "&useSSL=" + conf.getUseSSL(), conf.getUsername(), conf.getPassword());
@@ -38,7 +39,7 @@ public class DBConnect {
                 pst.executeUpdate();
                 pst = conn.prepareStatement("DROP TABLE IF EXISTS listing");
                 pst.executeUpdate();
-                System.out.println("A listingstatus tábla létrehozva");
+                System.out.println("The listingstatus table is ready.");
                 
                 pst = conn.prepareStatement("CREATE TABLE listingstatus ("
                         + "  id int(11) NOT NULL,"
@@ -60,7 +61,7 @@ public class DBConnect {
                         + "  PRIMARY KEY (id),"
                         + "  UNIQUE KEY id_UNIQUE (id))");
                 pst.executeUpdate();
-                System.out.println("A location tábla létrehozva");
+                System.out.println("The location table is ready.");
 
                 pst = conn.prepareStatement("CREATE TABLE marketplace ("
                         + "  id int(11) NOT NULL,"
@@ -68,7 +69,7 @@ public class DBConnect {
                         + "  PRIMARY KEY (id),"
                         + "  UNIQUE KEY id_UNIQUE (id))");
                 pst.executeUpdate();
-                System.out.println("A marketplace tábla létrehozva");
+                System.out.println("The marketplace table ready.");
 
                 pst = conn.prepareStatement("CREATE TABLE listing ("
                         + "  id varchar(60) NOT NULL,"
@@ -91,7 +92,7 @@ public class DBConnect {
                         + "  CONSTRAINT location FOREIGN KEY (inventory_item_location_id) REFERENCES location (id),"
                         + "  CONSTRAINT market_place FOREIGN KEY (marketplace) REFERENCES marketplace (id))");
                 pst.executeUpdate();
-                System.out.println("A llisting tábla létrehozva");
+                System.out.println("The listing table is ready.");
 
             } catch (SQLException ex) {
                 System.out.println("Nem sikerült az adatbázis és tábláinak létrehozása." + ex.getMessage());
@@ -102,7 +103,7 @@ public class DBConnect {
             try {
                 this.conn = DriverManager.getConnection("jdbc:mysql://" + conf.getHostname() + ":" + conf.getPort() + "/" + conf.getDbName()
                         + "?serverTimezone=" + conf.getServerTimezone() + "&useSSL=" + conf.getUseSSL(), conf.getUsername(), conf.getPassword());
-                System.out.println("A híd a MySQL adatbáziskezelővel létrejött. (Connect)");
+                System.out.println("The bridge was created with the MySQL database manager. (Just connect)");
 
             } catch (SQLException ex) {
                 System.out.println("Valami baj van a MySQL Connection (híd) létrehozásakor.");
