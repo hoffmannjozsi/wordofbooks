@@ -23,23 +23,21 @@ public class DBConnect {
                 this.conn = DriverManager.getConnection("jdbc:mysql://" + conf.getHostname() + ":" + conf.getPort()
                         + "?serverTimezone=" + conf.getServerTimezone() + "&useSSL=" + conf.getUseSSL(), conf.getUsername(), conf.getPassword());
                 System.out.println("The bridge was created with the MySQL database manager. ");
-                PreparedStatement pst = conn.prepareStatement("DROP DATABASE  IF EXISTS " + conf.getDbName());
-                pst = conn.prepareStatement("CREATE DATABASE  IF NOT EXISTS " + conf.getDbName());
+                PreparedStatement pst = conn.prepareStatement("CREATE DATABASE IF NOT EXISTS " + conf.getDbName());
                 if (pst.executeUpdate()==1) 
                     System.out.println(conf.getDbName() + " database is ready.");
                 this.conn.close();
                 this.conn = DriverManager.getConnection("jdbc:mysql://" + conf.getHostname() + ":" + conf.getPort() + "/" + conf.getDbName()
                         + "?serverTimezone=" + conf.getServerTimezone() + "&useSSL=" + conf.getUseSSL(), conf.getUsername(), conf.getPassword());
 
+                pst = conn.prepareStatement("DROP TABLE IF EXISTS listing");
+                pst.executeUpdate();
                 pst = conn.prepareStatement("DROP TABLE IF EXISTS listingstatus");
                 pst.executeUpdate();
                 pst = conn.prepareStatement("DROP TABLE IF EXISTS marketplace");
                 pst.executeUpdate();
                 pst = conn.prepareStatement("DROP TABLE IF EXISTS location");
                 pst.executeUpdate();
-                pst = conn.prepareStatement("DROP TABLE IF EXISTS listing");
-                pst.executeUpdate();
-                System.out.println("The listingstatus table is ready.");
                 
                 pst = conn.prepareStatement("CREATE TABLE listingstatus ("
                         + "  id int(11) NOT NULL,"
@@ -47,7 +45,7 @@ public class DBConnect {
                         + "  PRIMARY KEY (id),"
                         + "  UNIQUE KEY id_UNIQUE (id))");
                 pst.executeUpdate();
-                System.out.println("A listingstatus tábla létrehozva");
+                System.out.println("The listingstatus table is ready.");
                 
                 pst = conn.prepareStatement("CREATE TABLE location ("
                         + "  id varchar(50) NOT NULL,"

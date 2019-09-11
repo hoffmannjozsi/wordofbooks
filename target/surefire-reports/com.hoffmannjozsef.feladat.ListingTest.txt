@@ -1,28 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.hoffmannjozsef.feladat.ListingTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 1.45 s <<< FAILURE! - in com.hoffmannjozsef.feladat.ListingTest
-testIsValidTitle(com.hoffmannjozsef.feladat.ListingTest)  Time elapsed: 0.108 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.hoffmannjozsef.feladat.ListingTest.setUp(ListingTest.java:57)
-
-testIsValidListingPrice(com.hoffmannjozsef.feladat.ListingTest)  Time elapsed: 0.001 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.hoffmannjozsef.feladat.ListingTest.setUp(ListingTest.java:57)
-
-IsValidIdtest(com.hoffmannjozsef.feladat.ListingTest)  Time elapsed: 0.002 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.hoffmannjozsef.feladat.ListingTest.setUp(ListingTest.java:57)
-
-testIsValidDescription(com.hoffmannjozsef.feladat.ListingTest)  Time elapsed: 0.001 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.hoffmannjozsef.feladat.ListingTest.setUp(ListingTest.java:57)
-
-testIsValidCurrency(com.hoffmannjozsef.feladat.ListingTest)  Time elapsed: 0.005 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.hoffmannjozsef.feladat.ListingTest.setUp(ListingTest.java:57)
-
-testIsValidLocationId(com.hoffmannjozsef.feladat.ListingTest)  Time elapsed: 0.002 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.hoffmannjozsef.feladat.ListingTest.setUp(ListingTest.java:57)
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.437 s <<< FAILURE! - in com.hoffmannjozsef.feladat.ListingTest
+IsValidIdtest(com.hoffmannjozsef.feladat.ListingTest)  Time elapsed: 0.068 s  <<< ERROR!
+java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: <any>.thenReturn
+	at com.hoffmannjozsef.feladat.ListingTest.IsValidIdtest(ListingTest.java:75)
 

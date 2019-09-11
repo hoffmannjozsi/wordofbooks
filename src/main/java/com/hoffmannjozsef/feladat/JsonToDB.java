@@ -32,7 +32,6 @@ public class JsonToDB {
                 System.out.println("Object");
             }
             if (root.isArray()) {
-                //db.truncateTable("listingStatus");
                 for (int i = 0; i < root.size(); i++) {
                     ListingStatus listingStatus = new ListingStatus();
                     listingStatus.setId(root.get(i).get("id").intValue());
@@ -55,7 +54,6 @@ public class JsonToDB {
                 System.out.println("Object");
             }
             if (root.isArray()) {
-                //db.truncateTable("marketplace");
                 for (int i = 0; i < root.size(); i++) {
                     Marketplace mp = new Marketplace();
                     mp.setId(root.get(i).get("id").intValue());
@@ -78,7 +76,6 @@ public class JsonToDB {
                 System.out.println("Object");
             }
             if (root.isArray()) {
-                //db.truncateTable("location");
                 for (int i = 0; i < root.size(); i++) {
                     Location lc = new Location();
                     lc.setId(root.get(i).get("id").asText());

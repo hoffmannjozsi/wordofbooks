@@ -28,6 +28,8 @@ public class MyConfig {
     private String ftpuser = "jozsefhoffmann71@gmail.com";
     private String ftppass = "srpii";
     
+    public MyConfig() {}
+    
     public MyConfig(String configFile) {
         
         try {
