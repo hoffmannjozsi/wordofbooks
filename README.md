@@ -1,2 +1,2 @@
 # wordofbooks
-Word of Books test job.
+Word of Books test job with Maven
