@@ -1,1 +1,15 @@
+com\hoffmannjozsef\feladat\MyConfig.class
+com\hoffmannjozsef\feladat\ListingStatus.class
+com\hoffmannjozsef\feladat\Listing.class
+com\hoffmannjozsef\feladat\ReportRepositoryImpl.class
+com\hoffmannjozsef\feladat\DataStoringRepositoryImpl.class
+com\hoffmannjozsef\feladat\DataStoringRepositoryInterface.class
+com\hoffmannjozsef\feladat\ReportToJson.class
+com\hoffmannjozsef\feladat\ReportObject.class
+com\hoffmannjozsef\feladat\ReportRepositoryInterface.class
 com\hoffmannjozsef\feladat\App.class
+com\hoffmannjozsef\feladat\Location.class
+com\hoffmannjozsef\feladat\FTPUpload.class
+com\hoffmannjozsef\feladat\DBConnect.class
+com\hoffmannjozsef\feladat\JsonToDB.class
+com\hoffmannjozsef\feladat\Marketplace.class

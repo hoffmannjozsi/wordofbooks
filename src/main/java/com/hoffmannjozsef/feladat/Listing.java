@@ -7,6 +7,7 @@ import java.time.format.DateTimeParseException;
 import java.util.HashSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import org.apache.commons.math3.util.Precision;
 
 /**
  *
@@ -25,7 +26,7 @@ public class Listing {
     private int quantity = 0;
     private int listing_status = 0;
     private int marketplace = 0; //Marketplace id  
-    private LocalDate upload_time = LocalDate.of(1000,1,2);
+    private LocalDate upload_time = LocalDate.of(1000, 1, 2);
     private String owner_email_address = "";
 
     private boolean validUploadTime = true;
@@ -44,8 +45,8 @@ public class Listing {
 
     public Listing(MyConfig conf, HashSet<String> locids, HashSet<Integer> lstids, HashSet<Integer> mplids) {
         this.conf = conf;
-		if (conf.getImportLogEx().equals("0")) {
-            this.logEx = false; 
+        if (conf.getImportLogEx().equals("0")) {
+            this.logEx = false;
         }
         this.locids = locids;
         this.lstids = lstids;
@@ -56,7 +57,7 @@ public class Listing {
     public void setMyConfig(MyConfig conf) {
         this.conf = conf;
         if (conf.getImportLogEx().equals("0")) {
-            this.logEx = false; 
+            this.logEx = false;
         }
     }
 
@@ -137,15 +138,15 @@ public class Listing {
     }
 
     public void setUpload_time(String upload_time_Str) {
-        
-        if (upload_time_Str != null && !upload_time_Str.isEmpty()) {
+
+        if (upload_time_Str != null || !upload_time_Str.isEmpty()) {
             try {
-                
+
                 DateTimeFormatter formatter = DateTimeFormatter.ofPattern("M/d/yyyy");
                 this.upload_time = LocalDate.parse(upload_time_Str, formatter);
-               
+
             } catch (DateTimeParseException ex) {
-               
+                this.upload_time = LocalDate.of(1000, 1, 2);
                 //A config fájl beállítása szerint validáljuk vagy sem az upload_time -ot
                 if (conf.getUploadTimeValidation().equals("1")) {
                     validUploadTime = false;
@@ -156,6 +157,7 @@ public class Listing {
                 }
             }
         } else {
+            this.upload_time = LocalDate.of(1000, 1, 2);
             if (conf.getUploadTimeValidation().equals("1")) {
                 validUploadTime = false;
             }
@@ -181,16 +183,6 @@ public class Listing {
 
     public void setLogEx(boolean logEx) {
         this.logEx = logEx;
-    }
-
-    @Override
-    public String toString() {
-        return "Listing{" + "id=" + id + ", title=" + title + ", description="
-                + description + ", location_id=" + location_id + ", listing_price="
-                + listing_price + ", currency=" + currency + ", quantity="
-                + quantity + ", listing_status=" + listing_status + ", marketplace="
-                + marketplace + ", upload_time=" + upload_time + ", owner_email_address="
-                + owner_email_address + '}';
     }
 
     public boolean isValidId() {
@@ -239,11 +231,9 @@ public class Listing {
     }
 
     public boolean isValidListingPrice() {
-        //Hibás, ha 0, vagy ha nem két decimális formátumú 
-        DecimalFormat df = new DecimalFormat("#.00");
-        int decimalLength = (df.format(listing_price % 1).length() - 1);
+        Precision.round(listing_price, 2);
 
-        if (listing_price <= 0 || decimalLength != 2) {
+        if (listing_price <= 0) {
             this.invalidFiled = "listing_price";
             if (logEx) {
                 this.invalidFiled += ": " + listing_price;
@@ -264,7 +254,7 @@ public class Listing {
         return true;
     }
 
-    public boolean isValidQquantity() {
+    public boolean isValidQuantity() {
         if (quantity <= 0) {
             this.invalidFiled = "quantity";
             if (logEx) {
@@ -288,7 +278,7 @@ public class Listing {
     }
 
     public boolean isValidMarketplace() {
-        //Hibás, ha 0, vagy nincs referenciája listing_status táblában
+        //Hibás, ha 0, vagy nincs referenciája marketplace táblában
         if (marketplace <= 0 || !mplids.contains(marketplace)) {
             this.invalidFiled = "marketplace";
             if (logEx) {
@@ -314,7 +304,7 @@ public class Listing {
     public boolean validate() {
         return isValidId() && isValidTitle() && isValidDescription()
                 && isValidLocationId() && isValidListingPrice()
-                && isValidCurrency() && isValidQquantity() && isValidListingStatus()
+                && isValidCurrency() && isValidQuantity() && isValidListingStatus()
                 && validUploadTime && isValidMarketplace() && isValidEmail();
     }
 

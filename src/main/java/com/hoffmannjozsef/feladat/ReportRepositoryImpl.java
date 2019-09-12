@@ -1,18 +1,11 @@
 package com.hoffmannjozsef.feladat;
 
-import java.io.FileWriter;
-import java.io.IOException;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
 import org.apache.commons.math3.util.Precision;
-import org.json.simple.JSONObject;
 
 /**
  * A riporthoz szükséges adatbázis lekérdezések osztálya

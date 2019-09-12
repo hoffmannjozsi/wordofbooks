@@ -1,6 +1,5 @@
 package com.hoffmannjozsef.feladat;
 
-import java.util.ArrayList;
 import java.util.Map;
 
 /**

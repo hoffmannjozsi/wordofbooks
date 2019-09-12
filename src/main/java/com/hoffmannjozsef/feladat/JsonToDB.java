@@ -37,7 +37,7 @@ public class JsonToDB {
                     listingStatus.setId(root.get(i).get("id").intValue());
                     listingStatus.setStatus_name(root.get(i).get("status_name").asText());
                     db.addListingStatus(listingStatus);
-                }                
+                }
             }
         } catch (IOException ex) {
             System.out.println("Error reading listingStatus" + ex.getMessage());
@@ -113,9 +113,8 @@ public class JsonToDB {
                     //Listing tábla kiürítése
                     db.truncateTable("listing");
                     for (int i = 0; i < root.size(); i++) {
-                        
+
                         Listing list = new Listing(myconf, locids, lstids, mplIds);
-                        //list.setMyConfig(myconf);
                         list.setId(root.get(i).get("id").asText());
                         list.setTitle(root.get(i).get("title").asText());
                         list.setDescription(root.get(i).get("description").asText());
@@ -138,9 +137,9 @@ public class JsonToDB {
                             pw.print(list.getInvalidFiled());
                             pw.println();
                         }
-                       
+
                     }
-                    
+
                 } catch (IOException ex) {
                     System.out.println("Hiba az importLog.csv fájl írása közben.");
                 }

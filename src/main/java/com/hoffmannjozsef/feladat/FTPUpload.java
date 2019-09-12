@@ -16,7 +16,7 @@ public class FTPUpload {
 
     public FTPUpload(MyConfig conf) {
         FTPClient ftpClient = new FTPClient();
-        
+
         try {
             ftpClient.connect(conf.getFtpserver(), conf.getFtpport());
             ftpClient.login(conf.getFtpuser(), conf.getFtppass());
@@ -36,7 +36,6 @@ public class FTPUpload {
             if (done) {
                 System.out.println("The report.json is uploaded successfully.");
             }
-
 
         } catch (IOException ex) {
             System.out.println("Error: " + ex.getMessage());

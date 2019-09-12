@@ -24,8 +24,9 @@ public class DBConnect {
                         + "?serverTimezone=" + conf.getServerTimezone() + "&useSSL=" + conf.getUseSSL(), conf.getUsername(), conf.getPassword());
                 System.out.println("The bridge was created with the MySQL database manager. ");
                 PreparedStatement pst = conn.prepareStatement("CREATE DATABASE IF NOT EXISTS " + conf.getDbName());
-                if (pst.executeUpdate()==1) 
+                if (pst.executeUpdate() == 1) {
                     System.out.println(conf.getDbName() + " database is ready.");
+                }
                 this.conn.close();
                 this.conn = DriverManager.getConnection("jdbc:mysql://" + conf.getHostname() + ":" + conf.getPort() + "/" + conf.getDbName()
                         + "?serverTimezone=" + conf.getServerTimezone() + "&useSSL=" + conf.getUseSSL(), conf.getUsername(), conf.getPassword());
@@ -38,7 +39,7 @@ public class DBConnect {
                 pst.executeUpdate();
                 pst = conn.prepareStatement("DROP TABLE IF EXISTS location");
                 pst.executeUpdate();
-                
+
                 pst = conn.prepareStatement("CREATE TABLE listingstatus ("
                         + "  id int(11) NOT NULL,"
                         + "  status_name varchar(45) DEFAULT NULL,"
@@ -46,7 +47,7 @@ public class DBConnect {
                         + "  UNIQUE KEY id_UNIQUE (id))");
                 pst.executeUpdate();
                 System.out.println("The listingstatus table is ready.");
-                
+
                 pst = conn.prepareStatement("CREATE TABLE location ("
                         + "  id varchar(50) NOT NULL,"
                         + "  manager_name varchar(45) DEFAULT NULL,"

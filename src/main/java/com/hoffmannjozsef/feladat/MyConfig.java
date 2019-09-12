@@ -8,37 +8,40 @@ import java.util.Properties;
  *
  * @author Hoffmann József
  */
-public class MyConfig {  
+public class MyConfig {
+
+    Properties prop;
     //Default settings
     private String hostname = "localhost";
     private String port = "3306";
-    private String dbName ="wobDB";
+    private String dbName = "wobDBdef";
     private String serverTimezone = "UTC";
     private String useSSL = "false";
     private String username = "root";
     private String password = "1234";
-    
-    private String uploadTimeValidation = "0";  
+
+    private String uploadTimeValidation = "0";
     private String importLogEx = "0";
-    
-    private String newDatabase = "0";
-    
+
+    private String newDatabase = "1";
+
     private int ftpport = 21;
-    private String ftpserver ="webseeder.hu";
+    private String ftpserver = "webseeder.hu";
     private String ftpuser = "jozsefhoffmann71@gmail.com";
     private String ftppass = "srpii";
-    
-    public MyConfig() {}
-    
+
+    public MyConfig() {
+    }
+
     public MyConfig(String configFile) {
-        
+
         try {
-            Properties prop = new Properties();
-            prop.load(new FileReader(configFile));  
+            prop = new Properties();
+            prop.load(new FileReader(configFile));
             this.hostname = prop.getProperty("hostname");
             this.port = prop.getProperty("port");
             this.dbName = prop.getProperty("dbName");
-            this.serverTimezone = prop.getProperty("serverTimezone"); 
+            this.serverTimezone = prop.getProperty("serverTimezone");
             this.useSSL = prop.getProperty("useSSL");
             this.uploadTimeValidation = prop.getProperty("uploadTimeValidation");
             this.importLogEx = prop.getProperty("importLogEx");
@@ -47,27 +50,39 @@ public class MyConfig {
             this.ftpserver = prop.getProperty("ftpserver");
             this.ftpuser = prop.getProperty("ftpuser");
             this.ftppass = prop.getProperty("ftppass");
-            
+
         } catch (IOException ex) {
             System.out.println("Hiba a config.ini fájl beolvasásakor. Az adatbázis kapcsolati adatok alapértelmezettre állítva");
             System.out.println("Hibaüzenet : " + ex.getMessage());
         }
-    } 
+    }
 
-     
+    public void setProp(String configFile) {
+        try {
+            this.prop = new Properties();
+            prop.load(new FileReader(configFile));
+        } catch (IOException ex) {
+            System.out.println("Hiba a config.ini fájl beolvasásakor. Az adatbázis kapcsolati adatok alapértelmezettre állítva");
+            System.out.println("Hibaüzenet : " + ex.getMessage());
+        }
+    }
+
+    public Properties getProp() {
+        return prop;
+    }
 
     public String getHostname() {
         return hostname;
     }
 
-     public String getPort() {
+    public String getPort() {
         return port;
     }
 
     public String getDbName() {
         return dbName;
     }
-     
+
     public String getServerTimezone() {
         return serverTimezone;
     }
@@ -92,7 +107,6 @@ public class MyConfig {
         return importLogEx;
     }
 
-
     public String getNewDatabase() {
         return newDatabase;
     }
@@ -113,16 +127,4 @@ public class MyConfig {
         return ftppass;
     }
 
-    @Override
-    public String toString() {
-        return "MyConfig{" + "hostname=" + hostname + ", port=" + port + ", dbName=" + dbName + ", serverTimezone=" + serverTimezone + ", useSSL=" + useSSL + ", username=" + username + ", password=" + password + ", uploadTimeValidation=" + uploadTimeValidation + ", importLogEx=" + importLogEx + ", newDatabase=" + newDatabase + ", ftpport=" + ftpport + ", ftpserver=" + ftpserver + ", ftpuser=" + ftpuser + ", ftppass=" + ftppass + '}';
     }
-
-    
-
-    
-
-    
-    
-    
-}

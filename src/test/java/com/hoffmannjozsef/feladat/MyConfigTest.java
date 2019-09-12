@@ -17,29 +17,62 @@ import static org.junit.Assert.*;
  * @author Hoffmann József
  */
 public class MyConfigTest {
-    
+
     public MyConfigTest() {
     }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
-    
+
     @AfterClass
     public static void tearDownClass() {
     }
-    
+
     @Before
     public void setUp() {
+        confblank = new MyConfig();
+        confgood = new MyConfig("config.ini");
+        confwrong = new MyConfig("wrongfilename.ini");
     }
-    
+
     @After
     public void tearDown() {
     }
 
-    // TODO add test methods here.
-    // The methods must be annotated with annotation @Test. For example:
-    //
-    // @Test
-    // public void hello() {}
-}
+    MyConfig confblank;
+    MyConfig confgood;
+    MyConfig confwrong;
+
+    @Test
+    public void testSetProp() {
+        confblank.setProp("config.ini");
+        assertNotNull(confblank.getProp());
+    }
+
+    @Test
+    public void testBlank() {
+        assertEquals("localhost", confblank.getHostname());
+        assertEquals("3306", confblank.getPort());
+        assertEquals("wobDBdef", confblank.getDbName());
+        assertEquals("0", confblank.getImportLogEx());
+    }
+
+    @Test
+    public void testGood() {
+        
+        assertEquals("localhost", confgood.getHostname());
+        assertEquals("3306", confgood.getPort());
+        assertEquals("wobDBnew", confgood.getDbName());
+        assertEquals("1", confgood.getNewDatabase());
+    }
+
+    @Test
+    public void testWrong() {
+        assertEquals("localhost", confwrong.getHostname());
+        assertEquals("3306", confwrong.getPort());
+        assertEquals("wobDBdef", confwrong.getDbName());
+        assertEquals("0", confwrong.getImportLogEx());
+    }
+
+    }

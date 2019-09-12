@@ -1,33 +1,32 @@
 package com.hoffmannjozsef.feladat;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
 public class ReportObject {
-	private int Total_listing_count;
-	private int Total_eBay_listing_count;
-	private double Total_eBay_listing_price;
-	private double Average_eBay_listing_price;
-	private int Total_Amazon_listing_count;
-	private double Total_Amazon_listing_price;
-	private double Average_Amazon_listing_price;
-	private String Best_lister_email_address;
+
+    private int Total_listing_count;
+    private int Total_eBay_listing_count;
+    private double Total_eBay_listing_price;
+    private double Average_eBay_listing_price;
+    private int Total_Amazon_listing_count;
+    private double Total_Amazon_listing_price;
+    private double Average_Amazon_listing_price;
+    private String Best_lister_email_address;
 
     //Monthly reports:
-    
-	private Map<String, Integer> Total_eBay_listing_count_per_month = new LinkedHashMap<>();
-	private Map<String, Double> Total_eBay_listing_price_per_month  = new LinkedHashMap<>();
-	private Map<String, Double> Average_eBay_listing_price_per_month = new LinkedHashMap<>();
-	private Map<String, Double> Average_Amazon_listing_price_per_month = new LinkedHashMap<>();
-	private Map<String, Integer> Total_Amazon_listing_count_per_month = new LinkedHashMap<>();
-	private Map<String, Double> Total_Amazon_listing_price_per_month = new LinkedHashMap<>();
-	private Map<String, String> Best_lister_email_address_of_the_month = new LinkedHashMap<>();
-	
-	public ReportObject() {}
-        
-        public ReportObject(int Total_listing_count, int Total_eBay_listing_count, double Total_eBay_listing_price, double Average_eBay_listing_price, int Total_Amazon_listing_count, double Total_Amazon_listing_price, double Average_Amazon_listing_price, String Best_lister_email_address) {
+    private Map<String, Integer> Total_eBay_listing_count_per_month = new LinkedHashMap<>();
+    private Map<String, Double> Total_eBay_listing_price_per_month = new LinkedHashMap<>();
+    private Map<String, Double> Average_eBay_listing_price_per_month = new LinkedHashMap<>();
+    private Map<String, Double> Average_Amazon_listing_price_per_month = new LinkedHashMap<>();
+    private Map<String, Integer> Total_Amazon_listing_count_per_month = new LinkedHashMap<>();
+    private Map<String, Double> Total_Amazon_listing_price_per_month = new LinkedHashMap<>();
+    private Map<String, String> Best_lister_email_address_of_the_month = new LinkedHashMap<>();
+
+    public ReportObject() {
+    }
+
+    public ReportObject(int Total_listing_count, int Total_eBay_listing_count, double Total_eBay_listing_price, double Average_eBay_listing_price, int Total_Amazon_listing_count, double Total_Amazon_listing_price, double Average_Amazon_listing_price, String Best_lister_email_address) {
         this.Total_listing_count = Total_listing_count;
         this.Total_eBay_listing_count = Total_eBay_listing_count;
         this.Total_eBay_listing_price = Total_eBay_listing_price;
@@ -157,6 +156,5 @@ public class ReportObject {
     public void setBest_lister_email_address_of_the_month(Map<String, String> Best_lister_email_address_of_the_month) {
         this.Best_lister_email_address_of_the_month = Best_lister_email_address_of_the_month;
     }
-        
-        
+
 }

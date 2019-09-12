@@ -5,7 +5,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashSet;
-import java.util.Set;
 
 /**
  *
@@ -28,7 +27,7 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
     public DataStoringRepositoryImpl(MyConfig myconf, DBConnect conn) throws SQLException {
         this.myconf = myconf;
         this.conn = conn;
-        
+
         this.addListingStatus = conn.getConn().prepareStatement("INSERT INTO listingstatus(id, status_name) VALUES (?, ?)");
         this.addMarketplace = conn.getConn().prepareStatement("INSERT INTO Marketplace(id, marketplace_name) VALUES (?, ?)");
         this.addLocation = conn.getConn().prepareStatement("INSERT INTO location(id, manager_name, phone, address_primary, "
@@ -45,7 +44,7 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
     @Override
     public void truncateTable(String tableName) {
         try {
-            this.truncateTable = conn.getConn().prepareStatement("TRUNCATE "+ tableName);
+            this.truncateTable = conn.getConn().prepareStatement("TRUNCATE " + tableName);
             this.truncateTable.executeUpdate();
         } catch (SQLException ex) {
             System.out.println("Hiba a 'listing' tábla kiürítésekor. Üzenet: " + ex.getMessage());
@@ -56,7 +55,7 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
     public void addListingStatus(ListingStatus lst) {
         try {
             this.addListingStatus.setInt(1, lst.getId());
-            this.addListingStatus.setString(2, lst.getStatus_name());         
+            this.addListingStatus.setString(2, lst.getStatus_name());
             this.addListingStatus.executeUpdate();
         } catch (SQLException ex) {
             System.out.println("Hiba a ListingStatus táblába való hozzáadáskor. Üzenet: " + ex.getMessage());
@@ -93,7 +92,7 @@ public class DataStoringRepositoryImpl implements DataStoringRepositoryInterface
 
     @Override
     public void addListing(Listing list) {
-        try {           
+        try {
             this.addListing.setString(1, list.getId());
             this.addListing.setString(2, list.getTitle());
             this.addListing.setString(3, list.getDescription());

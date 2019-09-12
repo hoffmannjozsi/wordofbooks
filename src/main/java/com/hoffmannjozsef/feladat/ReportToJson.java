@@ -1,12 +1,10 @@
 package com.hoffmannjozsef.feladat;
 
 import java.sql.SQLException;
-import java.util.ArrayList;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Map;
 
 /**
  *
@@ -21,7 +19,6 @@ public class ReportToJson {
 
     Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-   
     public ReportToJson(MyConfig myconf, DBConnect conn) throws SQLException, IOException {
         this.myconf = myconf;
         this.conn = conn;
@@ -43,7 +40,7 @@ public class ReportToJson {
         reportObject.setTotal_Amazon_listing_count_per_month(rp.getTotalAmazonlistingcountpermonth());
         reportObject.setTotal_Amazon_listing_price_per_month(rp.getTotalAmazonlistingpricepermonth());
         reportObject.setBest_lister_email_address_of_the_month(rp.getBestlisteremailaddressofthemonth());
-        
+
         try (FileWriter writer = new FileWriter("report.json")) {
             gson.toJson(reportObject, writer);
         } catch (IOException e) {
@@ -51,9 +48,5 @@ public class ReportToJson {
         }
 
     }
-
-   
-    
-    
 
 }

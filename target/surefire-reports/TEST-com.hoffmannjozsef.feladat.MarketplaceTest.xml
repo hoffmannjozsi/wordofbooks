@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.hoffmannjozsef.feladat.ListingTest" time="0.545" tests="11" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.hoffmannjozsef.feladat.MarketplaceTest" time="0.009" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -61,15 +61,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testIsValidEmail" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.045"/>
-  <testcase name="testIsValidTitle" classname="com.hoffmannjozsef.feladat.ListingTest" time="0"/>
-  <testcase name="testIsValidListingStatus" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.001"/>
-  <testcase name="testIsValidListingPrice" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.017"/>
-  <testcase name="testIsValidMarketplace" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.016"/>
-  <testcase name="testIsValidQuantity" classname="com.hoffmannjozsef.feladat.ListingTest" time="0"/>
-  <testcase name="IsValidIdtest" classname="com.hoffmannjozsef.feladat.ListingTest" time="0"/>
-  <testcase name="testIsValidDescription" classname="com.hoffmannjozsef.feladat.ListingTest" time="0"/>
-  <testcase name="testSetUpload_time" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.181"/>
-  <testcase name="testIsValidCurrency" classname="com.hoffmannjozsef.feladat.ListingTest" time="0"/>
-  <testcase name="testIsValidLocationId" classname="com.hoffmannjozsef.feladat.ListingTest" time="0.001"/>
+  <testcase name="testGetId" classname="com.hoffmannjozsef.feladat.MarketplaceTest" time="0.001"/>
+  <testcase name="testGetMarketplace_name" classname="com.hoffmannjozsef.feladat.MarketplaceTest" time="0"/>
 </testsuite>

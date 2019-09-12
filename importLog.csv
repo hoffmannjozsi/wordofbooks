@@ -1,536 +1,516 @@
 ListingId;MarketplaceName;InvalidField
-adcdf206-e26e-402d-af3e-0a5fc45e6668;AMAZON;listing_status
-9844e9a8-f286-42eb-bce6-19cd01958f5d;AMAZON;upload_time
-a667273f-d6a3-40d3-9c04-cc7fc1780094;EBAY;owner_email_address
-5691726c-a3e6-4e49-ab63-e60e1cc6b37f;AMAZON;owner_email_address
-5a5dccf7-69ac-4ea4-9329-a4eee4c620e0;EBAY;listing_status
-414c1eab-0321-4763-bdec-2e1795fca181;EBAY;listing_price
-2dd475bc-947d-4d5c-8a09-9b5f68c57a60;EBAY;upload_time
-aed1b6f8-d71c-467a-9093-9430302e48af;AMAZON;listing_price
-145287db-6929-4c18-a688-96d23cf11441;AMAZON;listing_status
-5b5ad02b-c957-40e8-a4d9-f52da78c82b1;AMAZON;listing_status
-bd422bc5-ec99-4df7-ac89-d21349ef262f;EBAY;owner_email_address
-6f7e9b95-e15c-43be-acb6-f26e7fea1751;AMAZON;listing_status
-1e568863-6b2e-4480-88b8-083fa865fe1f;EBAY;upload_time
-5c1c347a-d7b1-478f-8421-1570ed7ce039;EBAY;upload_time
-fbbf4f70-992b-4aba-95fe-ae93327056de;AMAZON;listing_status
-a20b0727-3cbc-47ea-aa19-d1e26ebe2d1c;AMAZON;owner_email_address
-300114d3-45cc-4309-8448-7c904b2d12b8;AMAZON;owner_email_address
-1dae2cd5-facf-46df-b5fe-9fd3f24f4860;EBAY;listing_price
-5e98372c-8285-4502-84df-3a3958e9b1af;AMAZON;listing_status
-c4fa4f17-a6a3-44f3-be8c-f290553e679c;AMAZON;upload_time
-408ecbd5-61a6-43be-9d20-6b1794ff4a6d;AMAZON;listing_status
-d6621135-0385-48b9-a976-af1da1a014de;EBAY;owner_email_address
-1ef1162a-d725-4593-90e6-f8719b007e3a;AMAZON;listing_price
-9b9fc0a0-af0d-448f-b3cf-3a85b9d9ed67;AMAZON;upload_time
-081257ef-54ee-4837-b883-dceeea30e3fe;EBAY;listing_status
-1e6dc8e5-a662-4e47-b90a-e58c02a3061a;AMAZON;owner_email_address
-7f4dbcc6-c43d-4c96-9c2d-18e72c61e73b;AMAZON;listing_status
-5dd75b21-52cf-490a-8a7b-73a27b5161e6;AMAZON;upload_time
-aadee5f4-2869-41be-ab9c-505130495994;AMAZON;owner_email_address
-15503758-131b-4347-ab6e-f6c42d595768;AMAZON;listing_price
-4fe09c4b-323f-4672-9032-22e854634371;EBAY;owner_email_address
-c3745fac-baea-4723-addf-119f65dcb497;EBAY;upload_time
-562ac18a-abc7-44b3-95fc-88b04fa2ba0a;AMAZON;listing_status
-f491f5e6-38ce-422e-8f73-c6b86fe4cb12;AMAZON;owner_email_address
-3656a9b2-e6d9-48c5-bd68-3b8cbb91f9eb;AMAZON;listing_price
-8208c4c2-aa43-4177-b4d9-0db22bab2821;AMAZON;listing_status
-a64fce0b-561b-421c-bebc-71fb05c1736a;AMAZON;listing_status
-63b6a6aa-5988-4eab-9ceb-e3dc1a621dfd;EBAY;listing_status
-f6b723ca-f225-4297-a3aa-e20b31a55858;AMAZON;listing_status
-85a499e5-17fc-428f-9f55-e4b22fd85712;AMAZON;owner_email_address
-c1d9668b-117f-4ab6-a563-3f94855065b8;AMAZON;listing_price
-335dd8d1-ed1e-4a32-bd18-814f96c3c9e5;AMAZON;listing_status
-85e715a1-e518-4884-8863-7fd773cfa8b7;AMAZON;listing_status
-30f0ee3e-d3b7-4b84-9379-a97d17ab1652;AMAZON;upload_time
-82c44576-4a5b-482f-85ee-7b1d53e12fe9;AMAZON;owner_email_address
-02cb9ea5-e7b8-4373-921c-7484aa3e4eb9;AMAZON;listing_price
-4323213f-75d3-434a-8d07-a89a325163c5;EBAY;listing_status
-326e9e3d-7a2e-471f-85e8-add02ce5554b;AMAZON;listing_status
-0c23c8f7-4e1a-4e3b-8391-b366efa9f3d7;EBAY;owner_email_address
-504cc671-8d56-4acd-959f-226e32613e69;AMAZON;owner_email_address
-0aae0091-85ff-4726-b78a-59c8ef69b78d;EBAY;listing_status
-d9b5b113-ffeb-4b28-b4c8-c19d686c8904;EBAY;listing_price
-4f880992-5b4d-47ec-a5cf-3c414638f18b;EBAY;listing_price
-ba1ee68c-0e6a-4b5c-97a6-dff82b8927a4;AMAZON;listing_price
-60e8aa5e-1988-41bd-b269-a74697c29401;EBAY;owner_email_address
-d3c6c96a-3090-41dd-8bd6-929531f58785;AMAZON;listing_status
-f7309a70-a159-4f3c-80e9-8b97066016cf;AMAZON;upload_time
-fba4369b-b263-40e2-bb27-c6d58747170e;AMAZON;listing_status
-e4129475-59a0-4c7e-9168-c553776c8417;AMAZON;listing_status
-4c79e3e8-f5bd-4e3e-bdee-8f1206ee7d46;EBAY;listing_status
-3f41d107-3577-4be5-ab8e-f7129845f0d3;AMAZON;listing_status
-30ac0724-3adc-475a-96ff-e31a990160a7;AMAZON;listing_status
-3994536b-033e-494f-b0ad-b3cede23b20f;EBAY;owner_email_address
-0f5319fd-8c1f-427b-833a-720afd1fc5eb;AMAZON;listing_status
-70b948e4-9700-42c2-8dc8-e66dbd85e4f0;EBAY;listing_status
-e16eb44f-9f1c-44e3-95cb-d14c4d83c016;EBAY;owner_email_address
-0b227244-2ca4-4adb-9d35-828aed569503;EBAY;owner_email_address
-0f3de2d9-66bf-4785-9094-6e168dcffe22;AMAZON;owner_email_address
-c524e4c4-b140-452a-8b13-b17727269e8a;EBAY;owner_email_address
-33469f94-fb6e-4298-9bfb-0bc478a8d3b7;EBAY;listing_price
-74c06a7e-20af-4a69-81c2-5df4c2fd165a;EBAY;listing_status
-efe5cd0b-4d16-40c7-8a4a-79a50ae22f5b;EBAY;listing_status
-3a772e9b-ccf4-4e39-8128-22b5adca8d95;EBAY;listing_price
-8de6c63d-b01e-4df4-b757-9cfb41831298;EBAY;listing_status
-be2466b8-b66c-4c51-b6eb-934dca7af72c;AMAZON;listing_status
-8005434e-797d-4fbc-a506-2dd686258ac7;EBAY;listing_price
-19d358fa-d516-40d8-9a03-041acd4c85c6;AMAZON;listing_status
-54186eec-6728-44db-9753-0638904d2a5e;AMAZON;owner_email_address
-1d04031f-66b2-459f-b62c-565809438ffd;AMAZON;listing_status
-321721cc-363b-4aa7-a370-db33eeb70da3;EBAY;owner_email_address
-6ce851bf-4f84-41fc-929f-a433db58c583;AMAZON;owner_email_address
-7388677c-ae8c-43fe-a05f-578ef64b94c0;EBAY;listing_status
-4dbc277f-7408-403a-943f-6f30b84bf101;AMAZON;upload_time
-17f42f51-a401-4147-aa3b-9e0d83bb1790;AMAZON;listing_price
-2f04e51f-83ca-4349-8e3e-d7f44727bcd7;EBAY;owner_email_address
-4f4f9965-f5f4-4a83-a4cf-c10228d686a2;EBAY;upload_time
-05598c65-82db-4229-b3da-e961a686905b;AMAZON;listing_status
-f8656daf-50a1-4b1a-a4d2-67520f3a32d3;EBAY;listing_price
-50520f4f-8627-4e2f-b2a9-d35facdbce62;AMAZON;listing_price
-35ce405e-3fb9-46f4-9b2b-91125c1d2ecc;EBAY;listing_price
-08049e75-afe6-4fbf-ab62-218103322b90;AMAZON;listing_status
-8393f85f-227c-4dcc-80bb-0bcfafc73b25;AMAZON;owner_email_address
-89d74e59-6222-4686-90d1-73c324a860c4;AMAZON;owner_email_address
-e1733d0a-fd6f-4190-ba6e-dabc5f178f33;AMAZON;owner_email_address
-4f745a2e-ffc5-4db1-9cfb-74669a5341fc;AMAZON;listing_status
-57158eaf-d799-4280-aa96-58e9df619818;EBAY;owner_email_address
-06d9155e-ea9d-4bc0-95b1-d3a443e54c17;AMAZON;upload_time
-74849365-4c00-4baf-a4c2-729d9aa7134a;AMAZON;listing_status
-7f7128ea-15c5-4e1e-93c7-937c455a5521;EBAY;owner_email_address
-243f5faa-8cd3-49e1-b8df-c08390265826;AMAZON;listing_status
-8ff888d0-6408-4c3a-81e9-6a1f210ca14e;AMAZON;listing_status
-aff58cc7-69f9-4278-b4af-cc4f503d0b79;EBAY;owner_email_address
-3a48b8df-7611-4ff2-919a-cca078b9c277;EBAY;listing_status
-c574f86a-8c04-4d16-8f58-ecd54d880c00;EBAY;listing_status
-18d5eeba-a2af-4e7a-bdaa-16d0369e5011;EBAY;listing_price
-5611903c-d27c-4e78-9cf1-3b6a341ed99b;AMAZON;listing_status
-d6eaf4e9-6350-4968-925f-418e3d8539f3;EBAY;owner_email_address
-60cf7261-a36a-4c44-9f7d-6fc4383f70a9;AMAZON;listing_price
-90aa42e0-5152-4151-844e-b08f51bc61e8;EBAY;owner_email_address
-c02d49ed-f7ed-42c4-b8b1-72ae73394363;EBAY;listing_status
-4dd32e76-f44a-4886-89c1-e925fab9a2f7;AMAZON;listing_status
-30889d9b-3128-4304-a15a-4f594f7c4c0d;EBAY;listing_status
-d9d35456-bf53-4c4e-9771-74e9730b7d6c;AMAZON;listing_status
-806ba27f-e678-49b1-9ddc-7f0ca105850e;EBAY;listing_price
-ad3ee6a5-bba1-452d-b184-f633cdccfd1f;EBAY;upload_time
-da8849ed-ff87-4567-96f1-207856d35a13;AMAZON;listing_status
-f0effbc6-d91d-4478-b809-037b7c7dc3c0;EBAY;upload_time
-1e73b0bb-e405-428a-bee0-5b28cd660e31;AMAZON;listing_price
-77c006a4-f31e-442c-a0ac-3908b16170a9;EBAY;upload_time
-ad591740-e66a-455d-b589-ea4f843e6cbd;EBAY;listing_status
-bd0b496b-e1bd-4b5b-a2ca-1e901f185804;AMAZON;listing_status
-dc88dde2-4c60-4bc2-9c3d-e4c179a898df;AMAZON;listing_status
-f2068f1d-41fc-441f-b399-250779c72289;AMAZON;listing_status
-6db4f475-6154-4370-8fd2-78a75afcc757;AMAZON;listing_status
-e29f7bda-ed8e-4878-932a-ffb7caab063c;EBAY;owner_email_address
-bb586e7c-abf1-4899-8991-944b8aeaeb2b;EBAY;owner_email_address
-d22d7788-fae9-49ed-81e9-3cbce575d7dc;AMAZON;listing_status
-6c3cb4c5-61d2-4b21-95db-3c8db3eaedaf;AMAZON;listing_status
-d2f45862-c0ab-4693-b05e-285bc4d96b91;AMAZON;listing_price
-27432b5b-3e96-4639-a5c3-f26e612c7b6a;AMAZON;listing_status
-a39452a8-6f80-46b6-a89b-db43bb5f6eea;EBAY;listing_status
-78a46f0e-a34e-4e6d-a236-421295f29231;EBAY;listing_status
-cfe94309-68fc-46e2-ac3f-67485e2899c4;EBAY;listing_status
-b77e9219-6f83-444a-9a44-2b64150e80b1;EBAY;listing_status
-98b0014f-a235-4a4a-b58c-96d7326bcfcb;EBAY;listing_status
-b4344039-4581-4e43-8f26-5ad66f313e0b;AMAZON;owner_email_address
-8bd28a52-eb17-4443-87ad-b586e957b831;AMAZON;listing_status
-f67d4f19-e32e-444c-b8e0-71187d74ffd4;EBAY;listing_status
-f608bd32-5cf6-4e29-9cc9-d17fc00d9ea9;EBAY;listing_status
-58279848-6baf-4170-b9ea-8adba232d81f;AMAZON;listing_status
-66fec592-46f0-497a-86d9-0d1f51b83ee9;EBAY;listing_status
-c41f2880-cd9f-4435-9191-b789368dcf51;EBAY;listing_price
-3c30eed8-bf10-4b1e-8f14-1d8b84ef268b;AMAZON;listing_status
-0da13b94-2ee9-472e-b49d-dd53bd94b558;EBAY;upload_time
-87fba7a3-c876-4cca-87b1-c0a8a069a539;EBAY;listing_status
-8cdca0db-7863-4a40-9f89-08cc191add39;AMAZON;owner_email_address
-957cc2aa-b433-484b-be61-8c728b1df63c;AMAZON;owner_email_address
-e97707cc-d5bd-403f-b184-bd48cc8c7ffe;EBAY;listing_status
-f482fe00-5e0b-40a7-aef8-136b3e275169;AMAZON;listing_status
-18fac3d1-ae54-433b-b44d-38591216a9af;EBAY;listing_status
-6327b6ba-21ca-4d62-bec6-08f952b71cc0;EBAY;upload_time
-69d0e495-da53-495e-acad-7f1053a0cbd8;EBAY;upload_time
-af659fe9-b4ab-4f4d-8cbf-b1585eeb13aa;EBAY;listing_status
-26bd3b55-7f3f-47bf-bfdd-9ce52842abdd;AMAZON;listing_status
-3fad46fa-987c-42f3-9bb5-55466abc4db2;EBAY;listing_price
-01190d8d-45ab-4eb1-bc75-b19bb0b5f9f0;AMAZON;listing_status
-6247dae2-ec2d-4f6f-88c8-072430d3e371;EBAY;owner_email_address
-12ceeb9b-cecf-419d-940b-1636b0da5fa3;EBAY;listing_price
-c0b74761-a3f2-46be-bcf5-527059541dd9;AMAZON;listing_status
-3a7ac575-2fc4-4ff9-b7f8-e01f96dbcc1c;AMAZON;upload_time
-57e54ba9-7ebc-4c32-b019-fd344416b907;EBAY;listing_status
-23b89690-8ad5-4644-a819-7ad36e4d9914;EBAY;listing_status
-b8c35b7c-d4ef-46f1-92a2-76d1c4f75a9b;AMAZON;upload_time
-d4e9ff4e-8c56-4cf2-8262-b04479788f8b;AMAZON;listing_status
-379df147-c4e5-4a03-ade4-e52756c02f7f;EBAY;upload_time
-7102834e-b090-4911-ad02-31c21ebac0c2;EBAY;upload_time
-36f5940f-de28-4a8b-a464-8910f68e4fb9;EBAY;upload_time
-f84a34d2-ac5f-41c8-8d4f-c5bed317280e;EBAY;listing_status
-4862f858-0525-45ba-930f-4aab2faa3d0b;EBAY;listing_price
-d4b0d3c8-7455-4b2a-90c6-8a4961515b68;EBAY;listing_price
-b805d90f-8651-4b06-8711-e2bd9e5d0516;EBAY;listing_price
-908b6116-648b-49d5-9242-70e034b26613;AMAZON;listing_status
-86a9045f-3099-4691-bd24-ccd22c0a66a6;AMAZON;listing_status
-6c0d0eaf-4a62-402c-8513-02023412d135;EBAY;listing_status
-9ba085c2-3b09-418a-914c-98db420f098d;AMAZON;listing_status
-dc5a591a-5d8f-4eb6-9af4-9effe8a2d7f1;AMAZON;upload_time
-2bea8fad-3ac5-40c8-a6d8-08e8c194f321;AMAZON;listing_status
-38893777-0ea9-4a73-9b61-4084b6f2ef3e;AMAZON;owner_email_address
-9583d376-554b-43d2-bba8-c124a11e3251;EBAY;listing_status
-6ef4a0d1-dd66-4758-ba86-5db07bccef82;AMAZON;upload_time
-0b5dc5f8-7391-42ff-8531-aba39898562a;EBAY;listing_price
-8ea3e60d-df38-44a6-a6b4-dbfbac0755ac;EBAY;listing_status
-87434e8e-8438-40f1-b43a-41bf4d56afcb;AMAZON;listing_status
-12764752-fd07-4f06-99a9-b7709049a28b;AMAZON;listing_price
-0aa1c1bb-594d-49a6-b6c3-09fac01ba4fe;EBAY;listing_price
-50357abd-8f8a-42d2-b331-99422a9c539e;EBAY;listing_price
-d2c574e1-895a-4ea7-b5d3-7f473b07045c;AMAZON;owner_email_address
-56e22ab7-b36a-40ce-92fd-d4b246bb1901;AMAZON;listing_status
-58a395e7-9354-4965-a26f-db1cd6a6d1e8;AMAZON;upload_time
-4bfa6d23-2972-4c20-9dfd-5f9e27229665;EBAY;upload_time
-8b5e5df8-fb8a-4e41-9061-d02d191ab76c;AMAZON;listing_price
-aca0a15c-8660-472e-99ee-51709882b3bf;AMAZON;listing_status
-db9e6937-b173-472d-bd00-d7570faca153;AMAZON;listing_status
-cb5c025b-fc2b-454e-85c2-e568bf34c216;AMAZON;owner_email_address
-4d0b220f-de65-4377-a0ed-69e2f6bacf71;EBAY;owner_email_address
-20ca7a14-9e29-46bf-b0fa-96aeed658f44;EBAY;upload_time
-00ffb7f7-4b19-4590-bc46-be9f36445dc2;EBAY;listing_price
-20c8d2f1-193b-4bf5-8d01-a52e7f6415b7;EBAY;listing_status
-dba003f4-3e5a-43bb-ba9a-530aa09fdcb4;EBAY;listing_status
-8ea0a7f8-63ae-4743-96fe-0c861ce9a4f4;EBAY;upload_time
-50d00d73-bb8b-45ec-acbc-a26a35fc5759;AMAZON;listing_status
-96fc6942-7d7d-4bda-8935-8cb375349d2b;EBAY;owner_email_address
-76c5e844-a222-4a08-ae43-c98749e87a83;EBAY;listing_status
-7e4c1bb0-1176-4879-bec4-231b66f52166;EBAY;listing_price
-bec26d02-acfc-4dac-9631-e14149918b8f;EBAY;listing_status
-06ebbcba-6996-43f3-9e61-9dbe674423c2;AMAZON;owner_email_address
-d52c67b6-ae51-4859-b2f8-eeecd10c9735;EBAY;listing_status
-0a33a336-2a5e-4a96-b0d7-ad8a33808e33;EBAY;upload_time
-4b447f7c-6446-4e26-9446-255111991f2f;EBAY;listing_price
-4c27c54c-3da6-4c2d-a98f-b364c2eed5b2;EBAY;owner_email_address
-fbc309a3-6252-4d07-abc8-8bb1a3f7dad1;EBAY;listing_price
-eee3c9a8-949f-4ad2-a3d0-e0f74313c031;EBAY;listing_status
-18f07445-c4eb-4bfa-be36-d4cb992adbd2;AMAZON;upload_time
-0b101463-52d7-4a9c-a837-6504eadd8163;EBAY;owner_email_address
-e8256eba-7032-4223-8570-5c3496af07a2;EBAY;upload_time
-9dde8b54-44a7-4e44-8ef2-f27558a61ba5;AMAZON;listing_price
-abf91f81-461d-4b25-8508-2ac036ffc81e;AMAZON;listing_price
-ae2eaf00-b84b-4c11-91ba-e1af35a7656e;AMAZON;upload_time
-5b1305c3-28a3-418c-9a1b-0715df59ab56;EBAY;listing_status
-1acc8bc1-127f-44b3-82c0-127ee837cbff;EBAY;upload_time
-9be86634-2f20-4c7b-8416-7d50a3e340b7;EBAY;listing_price
-812b70e6-2543-4130-961f-df1dac7463a5;AMAZON;owner_email_address
-d0db2ec6-214d-4925-ad75-8f1597400700;AMAZON;upload_time
-c1636f23-54e8-4dcd-a86a-77f3c946e7be;AMAZON;owner_email_address
-4f0bcd60-db3a-46f8-9498-17036205ffc1;AMAZON;owner_email_address
-89e1775f-c2af-48d4-8c01-53468a288eec;AMAZON;upload_time
-dfd3eba9-4990-43cf-94fe-6e23f0f88029;AMAZON;upload_time
-6bde7405-9d90-4ca9-ab38-bed66770446a;EBAY;listing_status
-07f168ab-1747-400a-abf2-623a20934bf1;EBAY;listing_status
-d1af3c71-320f-487c-a390-58b5008379d2;EBAY;listing_status
-ab3ba38d-28d4-400c-8665-e88100ef71a8;AMAZON;listing_status
-5784a8a0-c285-4f21-b602-7aabac2e3a13;EBAY;listing_status
-2201f99e-e1a2-4215-8d9d-23dc4344c24f;AMAZON;listing_status
-253a7640-f9d4-4ad0-98d3-5f93afe1973c;EBAY;listing_status
-d92c863e-b03c-473e-b629-43fedf50cb7b;AMAZON;owner_email_address
-05b8480d-ff87-477c-81a1-142c60fad602;EBAY;upload_time
-e3e381e6-c487-4b87-b1a9-838295bd63d0;EBAY;owner_email_address
-83f1f277-50af-496d-a920-98db96c91995;AMAZON;owner_email_address
-4f0a3351-c57b-4b0b-99a1-68ecd38e88d9;AMAZON;listing_status
-f83ec90a-bf29-465c-9887-d90c8af5627b;EBAY;owner_email_address
-e0154991-e732-43fc-94e5-b7579919514d;AMAZON;listing_status
-b87a93b5-8199-4a9c-a312-fa54605fee44;AMAZON;listing_status
-98ea0059-986d-4d18-a7e7-702ac377fcf6;AMAZON;listing_status
-2aad074f-6fa9-4c6f-8d20-f7bcd5be22ef;AMAZON;owner_email_address
-1571dd4b-e35f-44fa-a12f-ff7eadab3df8;AMAZON;listing_price
-6e0a1cf1-6d27-462e-8407-5f148d68eeba;EBAY;upload_time
-27bb68e4-3f13-47cf-8834-08b25a2f51d1;AMAZON;listing_price
-2f3594ff-985e-4402-812a-da4d92b5574c;AMAZON;listing_status
-c923f9d6-5594-4370-8622-0f03d81e6091;EBAY;listing_status
-0f7bdc06-23dc-44ab-9c43-9075e3188055;AMAZON;listing_status
-0d60494c-30f3-4c85-8264-5670e3973683;AMAZON;listing_status
-c3fe6eb1-b23c-4fe7-8751-0aea415f2e69;AMAZON;listing_price
-77f90031-c2ed-4362-9447-82a7b876640a;EBAY;listing_status
-73c62308-7cd4-4396-b613-ffdf448b49ba;AMAZON;upload_time
-650b8046-e44c-43a5-ae85-4a9aca9539ce;EBAY;listing_price
-7bf66a23-871d-4cd1-a0f5-705fcbdd797f;EBAY;owner_email_address
-df58a868-7e36-4fb8-8c8c-2aa710223aeb;EBAY;listing_status
-7a22bb1c-12e3-4b9c-ac9f-afc5946643e5;AMAZON;listing_status
-a8c074fc-c44b-4e92-8999-2d8919e77623;EBAY;listing_status
-3ad7f91d-02a5-43d0-bced-ac43ac95a601;EBAY;upload_time
-b4d3b685-170a-4af4-8314-5cac48511dbc;EBAY;upload_time
-8495bdde-8791-4770-affd-fabab33e15d1;AMAZON;owner_email_address
-ebc37161-7060-4dca-8ce4-5bf780d7e4d3;AMAZON;listing_status
-35c937a7-64fa-47a2-8aa2-0ccc7a71ecee;EBAY;listing_status
-51e23add-4af4-4e88-a4ac-40d20839478e;AMAZON;owner_email_address
-610ae109-d40c-42b1-b136-3db754b5c760;EBAY;listing_price
-7c4fd731-6180-4aff-a6c5-39bf7297d01f;EBAY;listing_status
-46da33bf-4b9f-4d3d-b457-973358e30478;AMAZON;owner_email_address
-de66da6d-6389-45aa-9ae0-56bf6e6af1e6;AMAZON;listing_status
-e2d07828-d9d8-4a77-bd8a-bbf2177b523e;EBAY;listing_status
-9bed5b40-6b9a-440d-b7f7-8af9743b3f63;AMAZON;listing_status
-51a88ac5-472f-47de-af75-2911fceb5c5a;AMAZON;listing_price
-31e6df5f-65b7-4a06-9606-46e9699194ad;EBAY;owner_email_address
-185164a0-b590-404e-a919-5a01781d14c8;EBAY;listing_status
-94b397db-a2d3-4c38-8e44-aa213ab21540;EBAY;owner_email_address
-a06742ca-afe5-474d-99bb-bce7bf16bc56;AMAZON;listing_status
-aa00f3e0-20af-4c5b-8b3f-ffa4f326035e;EBAY;listing_status
-6836aed5-4a8b-481c-99a2-96c2cef71bcf;AMAZON;listing_price
-a6db8961-c046-4ef3-9e0a-65c18a109e6b;EBAY;listing_status
-bd9aff7d-f5ec-4231-aee6-8a602c2ed8fb;AMAZON;listing_status
-e7059ae9-ad93-4c60-9f7c-7a9778e5174e;EBAY;owner_email_address
-3e41258f-4dcf-4b27-b505-4baf1602733c;EBAY;listing_status
-ca797112-dfbd-4179-827d-85221b69ac11;EBAY;upload_time
-da543488-6bd0-4421-bd90-7c0abe46311d;EBAY;listing_price
-e2e7b4ce-eaea-4556-807b-7e2539d469cc;EBAY;listing_status
-c75ff3e4-5ad2-424f-acf6-a10ae1fe0706;EBAY;owner_email_address
-bb3d8ea9-205e-4026-8ff3-2f2795fabfe1;EBAY;listing_status
-ef48b4da-4009-4b77-9db6-bead0adc0dc2;AMAZON;listing_status
-f45b182d-91ec-4144-8fba-7031418b6be5;AMAZON;owner_email_address
-a5a79b91-c2de-4cb8-b58e-54235f1bcd16;EBAY;listing_status
-1ad2f81c-29da-42f9-a757-9693c1c85795;AMAZON;owner_email_address
-127d707f-df66-44e6-b63e-0a076db454be;AMAZON;listing_status
-0b524592-3a3b-43d7-a725-c0803a04bcce;EBAY;listing_status
-778a21ea-cbcc-41d9-a178-0ab64022d8a8;EBAY;owner_email_address
-4e5177a2-de30-49e7-8ed5-ce552be83105;AMAZON;owner_email_address
-ee1a90e5-4465-4cdb-a0f4-3e6cb7fc44a1;AMAZON;owner_email_address
-f543583a-26e8-475b-8b9f-efe79eca6718;AMAZON;owner_email_address
-d807fb04-dc3f-4d74-923f-66cc17a95e89;AMAZON;listing_status
-a6fd3498-6819-42bb-92a6-20c6af243761;AMAZON;owner_email_address
-2000e34d-86c6-48d6-8d28-2e2847e3044d;AMAZON;listing_price
-804fafce-746c-42ef-9e92-f3491e2bebef;AMAZON;listing_price
-dc0a1367-be81-4b29-a43b-9bf05da51e2e;EBAY;owner_email_address
-3f10150b-5b9d-4bee-b645-ee1bd0799caa;AMAZON;listing_status
-8ef91cf4-3c78-46a2-a03a-95c683d9eb2b;EBAY;upload_time
-77ec7002-a409-4747-b80d-f1797d10c72d;EBAY;owner_email_address
-6879162e-d85c-40b3-9e85-5ca1cc18ae0a;EBAY;listing_status
-b7dfe38d-91dc-4704-ab7d-f4aade3c5f8f;EBAY;upload_time
-d91b2625-96ba-4e1c-a258-5e063c08e938;EBAY;listing_status
-73f235ce-a0e1-44ac-8603-1623854c2c6b;AMAZON;listing_status
-9be9e947-2960-4c58-8905-d7dbf456d47a;EBAY;owner_email_address
-f406a4d4-897d-4260-9fe6-1a515eb18be4;AMAZON;upload_time
-7822c574-4bc9-41a7-90df-26fa3d9ce17c;AMAZON;owner_email_address
-cd967648-eb72-4961-ba13-5437814e7117;EBAY;listing_status
-2131ed34-9054-4ebd-ae02-378d34b7db80;EBAY;listing_status
-2706e157-56ee-4b0c-bb99-cff347932f19;AMAZON;listing_status
-d2d54e9e-87ec-42f2-b11e-c11be8abd15d;EBAY;listing_status
-bd57051c-6e4b-4b40-8022-6abbd67df154;EBAY;listing_status
-e2f88881-dc89-466c-bed5-88378da6fc51;EBAY;upload_time
-0e19b533-1b7e-466c-8962-2105fe9a1f8b;EBAY;owner_email_address
-e8f20886-fb7b-49e5-8293-8a980f9d9f42;AMAZON;listing_status
-929a7b93-bd46-4cfa-933e-1dad18dcf4cd;EBAY;upload_time
-0855c435-01d3-4bc9-bb79-1a5be36a0177;AMAZON;owner_email_address
-d9fe6f64-8aa4-4fd7-81e7-e9b07f87bebb;AMAZON;listing_price
-b2e66e73-50a8-40b1-a308-51d738662e53;EBAY;listing_price
-738aef0c-632a-494a-87aa-1dc025997053;EBAY;owner_email_address
-a8378654-bbe4-43b9-90cf-f59929217b5c;AMAZON;listing_status
-05a7c118-6c6d-4e41-9ea5-4878014dd9e5;AMAZON;upload_time
-ab89e3db-57c0-454a-961a-93124b555267;EBAY;listing_status
-78e30c42-2e41-4bf3-a1d1-3c285d6c665c;EBAY;listing_status
-6852cb30-469c-4a0c-8fd1-5757aabc6bf8;EBAY;upload_time
-c6c27920-3f62-4a84-acdd-b67a135fa861;EBAY;owner_email_address
-bd882b4b-a8db-4198-9219-e1bf2ef9a849;AMAZON;listing_status
-bb3d8689-9fe9-43be-b3a7-52b21c9f090c;AMAZON;owner_email_address
-5c9e5c14-8b77-4d35-be9c-b8f3cc5d4c7a;AMAZON;owner_email_address
-7e4dff6e-ecb8-482e-b500-906d87d868f0;EBAY;owner_email_address
-5139c293-b523-45da-8843-9c5a8464c2e6;EBAY;owner_email_address
-53ea597a-3e1e-46a6-80fb-256f0c42b477;EBAY;listing_status
-82d5e12a-0625-4fda-b432-9fbe21e1863f;AMAZON;listing_price
-06800d13-c771-4350-91ad-3acbb531b8dc;AMAZON;owner_email_address
-1f290489-212b-4a38-8a08-66ccc0fe95b5;EBAY;owner_email_address
-a0d96e90-fa76-482f-adfe-35779a0dea3f;AMAZON;listing_status
-c68de88b-274a-4fdb-8cd3-ddce4a0ce899;AMAZON;listing_status
-78aeef19-0976-4cf4-a031-d509fa671d3f;AMAZON;owner_email_address
-2070283e-397f-4f13-a962-5acf22500471;AMAZON;listing_price
-2ec413f3-6694-44c8-b4b2-7a188278d3c0;AMAZON;listing_status
-94792a63-3005-4b6c-bc89-1e97ae0224e8;AMAZON;upload_time
-ad4d77f5-4bd3-4962-b565-290387e77fb6;AMAZON;listing_price
-6a765414-1b16-489c-9055-9ab9554e3c3f;AMAZON;listing_price
-0c494498-9360-4f2a-a89b-d3813138bb53;EBAY;listing_price
-9e1997f1-c1b7-47fd-9359-5fe4e4ef0ada;EBAY;listing_status
-7a5d298c-7abc-411b-a539-61c0bec505f0;EBAY;listing_status
-0109f93d-3898-4062-aba3-b4f8ac623beb;EBAY;listing_status
-1de7aa99-a45c-41a9-a693-a34c4cd59cba;EBAY;listing_status
-19595d7a-5a12-4cd0-aae1-6a52fcf6a864;AMAZON;listing_status
-e4127b57-8692-4fb9-a241-fbe0bae05d29;EBAY;owner_email_address
-98e60295-118c-43a0-b5b0-bec97b8c89de;AMAZON;listing_status
-efe05eee-db17-4aca-b783-c0d1d4691770;AMAZON;listing_status
-c511df1a-df00-42b5-a928-bd29a332eba9;AMAZON;listing_status
-52e3b387-dd3d-4337-96e3-7bc4a1c5b9f0;EBAY;owner_email_address
-00380b8d-0150-49d2-b472-2ed66f876085;EBAY;listing_status
-a0e2af26-de57-42d1-b4aa-0b9161e04df2;AMAZON;owner_email_address
-744b0d8c-4fb9-4025-a3a4-c9e4d68c7280;AMAZON;listing_status
-19d1abe7-53d0-4bb2-94ff-26022b087fe2;EBAY;listing_price
-146ecc45-f5d0-4a96-9fea-e2bb1cb9d019;EBAY;listing_price
-83bc9fe6-bbe2-4d20-86e1-b703b4f92181;EBAY;listing_status
-519e48fb-f0c6-4588-b614-248c6578060b;EBAY;listing_status
-507a8ac5-9330-439c-916a-f4ab1d414d43;EBAY;listing_price
-8a8fc973-b72b-471c-848a-f218c7ca16ad;AMAZON;owner_email_address
-288f0845-a0b2-4789-ab2e-7acef9b864d3;EBAY;upload_time
-1e61cfe3-c5e8-4d5b-b44d-59e776c5ce38;EBAY;listing_price
-35ce00ab-7e12-4a63-a9b2-7d76018104e0;EBAY;listing_price
-870e7616-8ffc-4f27-a754-46a68c9c327e;EBAY;listing_status
-d0a6c687-3800-44c0-9bdd-cf27d03d5a42;EBAY;listing_status
-0d465ee8-4e02-46b2-93cb-4f936d960ec4;AMAZON;listing_status
-bf941c76-9ca3-4c87-a083-68bd9d1ed4aa;AMAZON;listing_status
-6b424a55-0edd-453f-a309-e5763497d2e0;EBAY;owner_email_address
-fd4a32fa-428d-44ed-b92e-c5612ae1a86e;EBAY;owner_email_address
-5470fb83-5018-435f-9ae5-f2a08e66eec9;EBAY;listing_price
-889b89b3-8d79-47ec-8ebd-1d5bbcc6fd12;EBAY;owner_email_address
-43ea3467-b1b0-4d53-a031-db75522c76fd;AMAZON;listing_status
-0edfa3e6-d143-4bcd-b7bb-119b44d5c406;AMAZON;listing_price
-fdade997-b731-424a-8ac1-ccab2db9f754;EBAY;listing_status
-67137b42-68a4-4dca-aa9c-014cfbdcf048;AMAZON;listing_status
-bddf68d2-93e2-4b61-b456-28a8d1c9d49a;EBAY;listing_price
-19dced73-c998-47ad-83c6-041118e3247d;AMAZON;upload_time
-1106d9ed-8317-46dc-b851-e1d389a890bf;EBAY;listing_status
-8dff6f57-e299-429d-abb8-e9d5a736ce13;AMAZON;owner_email_address
-88e2bd43-053e-4a70-a530-2d045884aff6;AMAZON;owner_email_address
-3683beae-0414-45da-b1d1-f10e1b593ebc;EBAY;upload_time
-a0558546-09cc-4ff3-b55f-18fe02ead239;EBAY;listing_status
-ba82de9c-b0d3-4421-b026-33abcdb6c7ed;AMAZON;listing_status
-1b9ee53c-09c0-4fa3-b4d3-5628375fd3f8;AMAZON;owner_email_address
-29623993-0fbc-4467-8070-1009f561bd4a;EBAY;listing_price
-70f5268d-d398-4a5e-bf0f-2cb0cdb00be2;AMAZON;listing_price
-cd12060a-1011-42ca-adac-b8dfa3a2c4bd;AMAZON;listing_status
-4a854a69-75b0-483f-afc7-389a78d03134;AMAZON;listing_status
-f4a3a153-f179-4ccb-8a87-edcd29c513c6;EBAY;listing_price
-b6ed835f-c628-4bee-af2c-b71e3ae49301;AMAZON;listing_status
-de236f97-1363-4780-935b-ac10f4ebd9df;EBAY;listing_status
-7cc237f7-27e9-4afe-b56b-ddad303f52d9;EBAY;owner_email_address
-6330da55-064b-45c6-a07e-a9cd0f572ab0;AMAZON;listing_status
-d1f0dc04-1991-4cbf-8cc2-c8d226136fdc;EBAY;listing_price
-40b6c395-5bee-4efd-8b8a-a593baacc5f9;EBAY;upload_time
-e5afa562-f47d-474c-852d-232ab369a655;EBAY;upload_time
-040d658b-2a34-4318-aded-4c89a71d9ac5;AMAZON;listing_status
-11f3e02a-3815-4df6-82f3-71fc5aad7930;EBAY;listing_status
-cc4aee58-b612-4612-9353-29c29ece0d46;AMAZON;listing_price
-00910d22-3a75-404e-94c9-de15359e069b;AMAZON;owner_email_address
-44864400-accc-44cb-9070-1376ab12ae65;EBAY;listing_status
-582acfe7-9eb4-4b27-9c6f-f2da1cc090bd;AMAZON;owner_email_address
-81654309-9393-4880-af9f-59cb59107e57;AMAZON;listing_status
-58185745-1014-4f9b-8f7a-fbc70b2f3d66;AMAZON;upload_time
-e5c05709-fa04-42cb-b5c0-b6a7f4409b77;EBAY;listing_status
-826af25e-00be-479b-bc6a-bf05a44cc9db;EBAY;listing_status
-910fd34f-7713-42b4-b0c9-a29007db680c;EBAY;listing_status
-b1796bcc-77a6-4002-b1fd-68117aa72a45;AMAZON;listing_status
-64f430ac-93fe-459c-a6e6-71f35e251dd1;AMAZON;listing_status
-8bf9cb33-432f-4044-a1a4-593080fcbf42;EBAY;listing_price
-02411228-2ef0-4d81-9a0e-9c9eaa32538a;EBAY;listing_status
-989cec5b-7827-4415-951c-8c9e966962a2;AMAZON;listing_status
-4e92dd52-92b9-4748-a191-7a4b254f7daf;AMAZON;listing_status
-46e88a2a-74bb-4b9b-8c19-9ff4b1b1ea10;AMAZON;listing_status
-991827e6-336d-47ea-a4ec-fc5e65409c70;EBAY;upload_time
-bf26fa02-374d-4d3c-a5d0-4952a47f8fa8;EBAY;listing_status
-b5894a42-c37c-4254-8e05-76b01f88123d;AMAZON;owner_email_address
-f7f19be8-0af2-4810-a65b-eec442c02b3c;EBAY;listing_status
-51661e4d-eefa-47a2-9611-e066d2ea220c;EBAY;listing_status
-be8c3af3-ebd6-4bc6-9aa0-9f0500157900;AMAZON;listing_status
-83f90f34-5c87-4ae6-a75f-05168c8b16d9;AMAZON;listing_status
-6bdaadd6-1910-4c86-a51a-046f0f5e2c2a;EBAY;listing_status
-dd8b6a06-c141-4a50-b8a5-d7c018414810;AMAZON;listing_status
-a5830e72-141b-48a3-b9e4-95c4cd7aa5dd;AMAZON;owner_email_address
-a5fc0c3d-14e8-4cac-be21-73b536566764;AMAZON;owner_email_address
-fb361afb-818a-4e30-aecf-aa75db3c7e10;EBAY;listing_status
-6561acf9-f8e0-455d-b61e-41626339cab4;AMAZON;owner_email_address
-8e52d0be-5feb-48cc-a145-3c5bff4cafff;AMAZON;listing_price
-2cbb61be-fff9-4272-9472-7dadb3b1f783;AMAZON;listing_status
-199b6abb-aeb1-4116-9bb2-3144457ea2d6;EBAY;listing_status
-d8eef0fa-89f7-480d-bd21-a16a7e0b2896;EBAY;listing_status
-d1b91247-70d1-4ed5-a45a-ef6f535a6f73;AMAZON;upload_time
-986f6773-fea9-469e-866e-c26ca1a4578c;EBAY;upload_time
-90c0a02d-fa65-4704-b038-7878ba455e23;AMAZON;upload_time
-9e6fc3ea-fd24-4363-a38e-bdeee072c955;EBAY;listing_status
-2c8ff14d-d867-4b90-9373-31ea3e266404;AMAZON;listing_status
-c68449b7-66cc-4901-bbf4-e413f1575196;EBAY;listing_price
-2883c0c0-a769-4a88-8b10-d4d6eb373154;AMAZON;listing_status
-6e4fdcd8-c9b3-46c8-9494-cd4cc9abf75c;AMAZON;listing_status
-742a456f-930e-4db6-a762-cc246044c594;AMAZON;listing_status
-e049bede-8ae3-4665-bfa5-bb91cb66cb0a;AMAZON;listing_status
-aec53d33-3ed7-4457-a335-9f65289ae7e5;EBAY;owner_email_address
-b3bf1b81-87b9-4599-b819-eaab2653fed2;EBAY;listing_status
-d3fac72e-eddb-4d6e-85ab-c66c2770f412;AMAZON;listing_status
-92fcb56f-078d-4bf1-a9bd-2d34bf9ea107;AMAZON;listing_status
-d888a018-226f-4c05-b402-ca61827f8b7f;AMAZON;listing_status
-a29530de-d0db-4d34-ae18-c50656e08963;EBAY;listing_status
-d0c53578-0c17-435c-8d32-d80f9b0c5cf1;EBAY;owner_email_address
-c1ff8522-bd56-40b2-9f67-9b0a01e6d32a;EBAY;upload_time
-8b2297eb-56c3-420a-8a83-9c6cf6a1f5d9;EBAY;owner_email_address
-6b155598-8e0d-4cc2-8bd8-274696001575;EBAY;listing_status
-424b6c4f-75a0-44ad-90bc-e816764d89cc;EBAY;listing_price
-cd51d016-8971-4eb2-bfcf-f8fe7ccb1733;AMAZON;listing_status
-b5b65ad3-fe39-4725-8405-80d9e4b87662;AMAZON;listing_status
-86d4e17f-4b9d-44ca-aedd-bb6c04e62b68;AMAZON;upload_time
-9769e31b-df6b-46de-a371-9a950066d32f;AMAZON;listing_status
-96e06ef8-8fbc-4020-8154-43bf0269ad9a;AMAZON;owner_email_address
-082ab751-e0f7-456e-b143-895d6e7458f4;EBAY;listing_status
-38707b45-f187-408f-bc17-607946069064;AMAZON;listing_price
-180878aa-9a68-431f-ac26-0c5fc053eb31;AMAZON;listing_price
-589ae358-9ef4-4a56-bc25-dd5094889507;AMAZON;owner_email_address
-030771e0-addf-4adc-bb26-a8abdce88221;AMAZON;listing_status
-872045da-8eca-45df-8979-ce9a712e5455;EBAY;listing_status
-bbd4c832-4242-4c35-b0b3-338e81688757;AMAZON;listing_status
-935fae3d-7911-46bc-90ca-848045fab103;EBAY;listing_status
-734e130b-9b03-418a-bc3e-a74e8afab4a7;AMAZON;listing_status
-b4a2c45a-1db4-4b88-b85e-c3e277a9ac08;EBAY;listing_status
-5f73c47d-dea2-408d-bd89-b331b7eed49a;EBAY;listing_status
-4b4cb288-13f1-486c-98f3-cac0f5e93744;EBAY;listing_status
-d2ceb1ec-21e9-498c-a75f-23fe2a7ac906;AMAZON;owner_email_address
-3ff4011d-2d50-4796-8fb8-f172c6f4ae45;EBAY;owner_email_address
-392dfca1-e9e1-4c37-8a21-3a4fa91349ef;EBAY;owner_email_address
-a9a6a9eb-9e39-4d83-acc2-2715dea87ed7;EBAY;listing_status
-cefe5f56-be5b-413b-bc79-0003a10b11b0;AMAZON;listing_status
-8e1e1a43-beaa-41b0-b1e7-77b603a84a45;EBAY;owner_email_address
-c61bf58f-acd8-4cdd-bf0e-a0ac611d6d8b;AMAZON;listing_status
-feae6079-0830-4c1b-83fc-e7581dee6bcb;AMAZON;owner_email_address
-2b4a5afa-cc80-4dea-ae5c-57bd9c1af511;EBAY;listing_status
-130ed90d-11d1-4e65-8b11-4cc0463c0420;EBAY;owner_email_address
-11695394-c92f-42f5-823c-2f6df4265f2a;EBAY;owner_email_address
-1f5569ff-8227-443f-a547-d4690dccfcc7;AMAZON;upload_time
-4d778099-e3fa-471b-ac85-0a9e21d6ee45;AMAZON;owner_email_address
-5269e92d-bb59-44c1-b7b8-28eb9ceb351b;AMAZON;listing_status
-b732c826-7d75-4a71-9397-8d95777c283b;AMAZON;owner_email_address
-088afd92-e925-4beb-a1d3-b505d29f25ea;EBAY;listing_price
-4dc3e640-3821-43c9-8c92-f0f1e726b5e4;EBAY;listing_status
-80836676-bebd-4f26-be45-58e0aad3d294;AMAZON;listing_status
-54503381-3d8a-460c-a7bc-8d208458b022;AMAZON;listing_price
-e9e00905-e1d8-438f-9cfd-ca1a75783402;EBAY;listing_status
-b9fc7357-8488-4dc7-bf1c-c298ad26fe4b;EBAY;listing_price
-c009ced3-e898-4db6-bede-c82d0691f6c3;AMAZON;owner_email_address
-83411243-5cf2-492e-8c44-5d033007df93;AMAZON;owner_email_address
-8e2fe302-3316-4852-9971-9426fe3e36d6;EBAY;listing_price
-26ecd4ba-7fa4-4aae-a26b-5eb69ede14a1;EBAY;listing_price
-5290571d-a5a6-4c53-8340-efc267cd4134;EBAY;listing_status
-3c36871a-ca48-421c-8140-7c306ad8fb13;EBAY;listing_price
-6795e800-d2af-4417-ab8e-2cc3499a88be;EBAY;owner_email_address
-840d398d-7299-4d5c-8e0c-143ffde35384;AMAZON;listing_price
-6fe93fcb-fb37-4204-ace1-b82fdf1863c3;AMAZON;listing_price
-afc17b47-24dc-403b-8895-1e842e4868f1;AMAZON;owner_email_address
-6a9d4275-8027-4606-97a3-b8003bfe0bef;AMAZON;listing_status
-ce14772b-7793-4654-90f4-f4885e05cbb1;AMAZON;listing_price
-2842d932-feec-4ab5-b5f3-a9fe8eae0676;AMAZON;listing_price
-37f8f779-7d80-4fba-9c5c-283de5735b06;AMAZON;listing_price
-733055aa-81fa-4b1d-8e63-f7de0968fcaa;EBAY;upload_time
-aec8bda1-37f8-487a-a369-a05272aa3aee;AMAZON;owner_email_address
-074519e7-b98d-457d-a40f-a3b577a6a737;AMAZON;listing_price
-959733c4-a859-4aa2-b3d3-879e36f7a58a;AMAZON;listing_status
-146582e6-fabb-4844-b46e-2f5763e3cc14;EBAY;owner_email_address
-05a69ed3-0f93-4281-ab31-93139a43bd7a;EBAY;listing_status
-d742599b-6b03-43c8-9fc7-82c640b697f3;EBAY;listing_price
-1b51d5e7-5cfa-4bfa-840d-912feda056ad;EBAY;owner_email_address
-8e49a41a-343e-491e-ab60-c55f49069622;EBAY;listing_status
-2f487ed4-6397-4ccf-97a6-65b9033f20c7;AMAZON;listing_status
-8445776f-2580-4539-a209-2bb0b914392c;EBAY;listing_status
-71f60dcb-883a-4ad2-96eb-f341e2efb809;AMAZON;listing_status
-9aec4753-f573-4bf5-a3ae-933b54acf239;AMAZON;upload_time
-1f312ad1-0d22-4333-91a1-89a4892ba272;AMAZON;listing_status
-c0aea3d2-27ca-4a61-b749-cebccd7aa5a3;AMAZON;listing_price
-2f82ab5c-4e57-496b-8ef7-c37cb3739341;EBAY;owner_email_address
-73f81f1e-b0cf-4a80-a414-fe0986304269;EBAY;owner_email_address
-bc046699-8dc7-4e45-b9ba-2d87da099ad6;AMAZON;upload_time
-f691f9d3-ccf0-4ef5-964e-c482804ff613;AMAZON;listing_price
-acbf3a8f-590d-4932-9b78-363ab4251d8b;AMAZON;owner_email_address
-fdf29200-fd8b-47e2-8c8a-94405c8f7b0b;AMAZON;listing_status
-69ec2345-d9f0-4331-a099-e0d2d296dbd6;AMAZON;upload_time
-fb6bef13-ad3a-4df6-8112-f30097ba735d;AMAZON;owner_email_address
+f211a30b-f7f5-4598-bd32-182c1666ba5f;EBAY;upload_time: null
+7eb41d92-28d1-43e2-a8b0-ec1e8ed1574f;EBAY;listing_status: 0
+832d170a-f5b3-401e-9234-8c0e2175a45b;EBAY;owner_email_address: cderoove@aolcom
+c9f71e96-b3f6-4fa2-a259-5bff6353c9cd;EBAY;listing_status: 0
+2843617e-ab89-47f4-86dd-48633629d754;AMAZON;listing_status: 0
+d6344897-26ec-4d0a-be9f-c27c2d7a8b68;AMAZON;upload_time: null
+9f8d2321-681b-4d2d-abee-18a246169674;EBAY;upload_time: null
+f8635f88-9639-4d0d-a0a1-a25d04e48efd;EBAY;owner_email_address: policiesATmac.com
+7a9a1e4f-5f8a-41d6-83df-09a7d23fbba0;AMAZON;upload_time: null
+536698c2-ed39-4faa-b0e2-45887cc09340;EBAY;upload_time: null
+9a77a21f-51a6-47be-b1fc-be77181f8694;AMAZON;owner_email_address: outlook.com
+fdebe1a4-7002-43d8-807f-b206eaf8d041;AMAZON;listing_status: 0
+cb6b47f9-7e2e-49fd-b9b2-662a1426a74a;AMAZON;listing_status: 0
+22f58d73-bb50-4e52-a692-0667f750c7d3;AMAZON;listing_status: 0
+cb1a7c31-975e-42c8-a821-a1e84f4359f7;AMAZON;listing_status: 0
+e8e351b2-c648-43e0-8cc6-7875bdde9dc3;AMAZON;listing_status: 0
+790ffb65-7040-444e-9584-69726d14a5c2;AMAZON;listing_price: -85.23
+853667b4-9c38-400d-8e9e-4dc0f678c6a5;AMAZON;listing_status: 0
+ff91e6bb-12e2-4ae3-ac48-ec0c12e2d526;AMAZON;listing_status: 0
+9a7dffd6-327b-45d2-9ac8-e2ca16ea6c22;EBAY;listing_status: 0
+098c9842-8b50-4504-9c8f-aacbb18426fd;EBAY;listing_status: 0
+8a092706-d936-4ebc-901f-58c3412248a1;AMAZON;listing_status: 0
+02c1b3a1-6a90-463f-8221-72512698194e;EBAY;listing_status: 0
+6be65473-a37e-4a1d-8d8e-3bd427cf25b2;EBAY;listing_status: 0
+c0180701-5ca6-4679-aa8a-824e91e50a56;AMAZON;owner_email_address: .icloud.com
+11d7399d-f86c-412f-8827-e4d8a2d10d47;EBAY;upload_time: null
+0ba18b0c-992a-4c09-b7cd-cad3fa2db9b0;AMAZON;listing_status: 0
+6153e5cd-91ea-49c7-9a6e-89b60ace0457;EBAY;listing_status: 0
+6934823c-80f3-44f5-80b9-4cf116340fa7;EBAY;listing_price: -38.25
+534ef69c-6e66-451f-94ed-9b61b9bfe1c5;EBAY;listing_status: 0
+83eb431f-a137-4d6b-a498-542666c1d2d2;EBAY;upload_time: null
+d6426a8a-707b-4f13-80c7-6bb277db422f;EBAY;owner_email_address: outlook.com
+67c7c5c2-f83d-46f7-a1a9-51ba7a5efe7b;AMAZON;listing_status: 0
+91194bbe-c3e0-45c1-8343-1f2c3efcf3af;EBAY;listing_status: 0
+58632381-61aa-444a-9e59-d2a68322d111;AMAZON;listing_status: 0
+442680ed-a9c4-4753-b495-b2678b311d63;AMAZON;listing_status: 0
+5e5b900f-6b9f-4619-9dde-f183a948b1f9;EBAY;listing_price: -19.09
+4710cc10-2ddd-4914-b265-fcb19e84b62e;AMAZON;owner_email_address: cderoove@aolcom
+0af0eb90-018d-4891-904b-d1589db778b9;AMAZON;listing_status: 0
+6b82675c-4c6f-4b97-a2d1-8f571fedceeb;EBAY;listing_price: -72.1
+c0daa2e2-c50f-4e97-a8bf-9f58dc5bc239;AMAZON;upload_time: null
+671c94ff-f122-4ff6-883f-ab04823ab883;EBAY;upload_time: null
+f0682b53-e945-41b4-8466-9f7bb770aa69;EBAY;upload_time: null
+8908d8e6-b78f-4bb7-b143-e0782f444213;EBAY;listing_status: 0
+766b6b89-0c83-4098-a410-e70bf6327595;AMAZON;owner_email_address: outlook.com
+4d53cf0e-34b6-4f20-8d8d-c1469f6d44ac;EBAY;owner_email_address: policiesATmac.com
+4eec8085-7755-4452-aa55-c11793a8fb44;AMAZON;owner_email_address: outlook.com
+b2bfc1e4-2199-4e45-9e7d-3f62d8e1918b;EBAY;listing_status: 0
+56429fc0-e3ad-4a16-9ab2-d256f93b2cd4;AMAZON;listing_status: 0
+2123bc1b-58b8-4d97-b70b-f27412ba7141;AMAZON;listing_status: 0
+fb77c12d-553a-4d06-9240-35360bbd1e33;EBAY;listing_price: -4.48
+71ec8a2e-b0cc-4ed3-ab67-ee9c194bda8c;AMAZON;listing_status: 0
+1814680a-a31b-4989-b9b0-5af3fdac2d65;AMAZON;listing_price: -93.25
+4485528d-e40b-4e1f-963c-8b66e6b56b4b;EBAY;owner_email_address: outlook.com
+66bd269d-f2c7-4f65-84a5-181325a03e49;AMAZON;owner_email_address: .icloud.com
+8981c0a2-2cc9-4630-861e-3bf24ec1b4da;EBAY;owner_email_address: .icloud.com
+5652b2a1-a845-4443-b7b4-dd0b18cbaa82;AMAZON;owner_email_address: .icloud.com
+72b6ae7c-c594-4f43-8f86-3a675b862be1;EBAY;listing_price: -90.09
+f1b4f555-5457-48ec-b91e-c6587ca05a4e;AMAZON;listing_status: 0
+ce7102df-15a7-497d-abf1-8467e208b5bb;AMAZON;listing_price: -22.51
+ed8c0886-31ab-4933-a884-56ba1f6efd6c;AMAZON;listing_status: 0
+60bfa87d-d78e-433c-972a-287675bfa4c0;AMAZON;listing_price: -96.57
+811bc76f-04b4-4f58-9a14-2eed8e78ffdc;EBAY;owner_email_address: .icloud.com
+d151ce04-c65f-4fe3-bb11-bb4b6f81abaf;EBAY;listing_price: -75.8
+dfc9002d-5e55-48b1-a22d-968459511e6f;AMAZON;owner_email_address: outlook.com
+f0c896b5-775d-491a-afc5-0b2cfde79c4d;AMAZON;listing_status: 0
+0db1c6dc-f1d7-4a4a-8d8e-d5d264c28fbb;AMAZON;upload_time: null
+e7a06de1-5e0b-4027-9381-b0098e7e182e;AMAZON;listing_price: -83.23
+4d42c3c3-1f7d-441c-9639-e6916e757240;AMAZON;upload_time: null
+88742d83-274c-422b-b604-8d176b1ca5bd;EBAY;listing_status: 0
+317ad766-d87c-4974-88ec-a238adccb4fb;EBAY;listing_price: -3.7
+02e300ed-af0c-436c-a01f-6a9cf28af15d;EBAY;owner_email_address: cderoove@aolcom
+6a8e2361-296d-4a82-8990-f80388bfd537;AMAZON;listing_price: -98.07
+ebdf3787-cc9d-4259-acd7-969a72eb870b;AMAZON;listing_status: 0
+b7b34780-e7f1-4142-95f3-4c28c97084e7;AMAZON;listing_status: 0
+dd672cb2-acff-4441-8209-45c2ee7f9972;EBAY;listing_status: 0
+b5894df1-b6aa-4b87-ab01-ab080afd7b5a;EBAY;upload_time: null
+6fba2928-b5c4-4729-a8a2-634538ea6f6a;EBAY;listing_status: 0
+ac11860e-cd2a-45eb-84e8-67997ded82ed;AMAZON;listing_status: 0
+50d98cbf-b68b-4f5f-8175-dfc9017e92df;AMAZON;listing_status: 0
+1ef64024-a646-451f-be57-82c874b9e151;AMAZON;upload_time: null
+9d13d58c-5558-4799-9c13-79e10d22aa5c;EBAY;listing_status: 0
+e5f9bc4a-1c5f-4d77-b5bd-2fcccda461fa;AMAZON;upload_time: null
+bf133c02-897b-4431-984e-27b145cc06fc;EBAY;upload_time: null
+cc2d1dcf-5b2f-4ed2-bcaa-d7f29be864e4;EBAY;listing_status: 0
+3c09ca98-1bab-4d66-9d0a-8522c0c769ee;AMAZON;listing_status: 0
+2bfd98f8-691d-4d94-a897-0cfe8ea4d58a;EBAY;listing_status: 0
+1cfe23ba-7c3b-4567-a195-b7256f5ff859;AMAZON;owner_email_address: outlook.com
+061282d3-c467-4693-808d-621da1be7ca7;EBAY;owner_email_address: outlook.com
+893b1b12-57af-4c4f-a654-501b020b75a3;AMAZON;listing_price: -4.38
+6490ddcf-1782-464c-9bb2-2f16d468a22c;EBAY;listing_status: 0
+68d43452-1683-425f-8983-b72c70995e1c;EBAY;upload_time: null
+f6da3a56-c313-475a-9584-077daef05ec3;EBAY;listing_price: -40.46
+de9def3e-7453-48dc-9af1-2e217b425fc8;AMAZON;upload_time: null
+cda360c7-3a6c-4623-a600-78a875921ab7;EBAY;listing_price: -27.51
+54f79ea9-816b-41aa-a8aa-ae648b9942b7;AMAZON;listing_status: 0
+feeea7db-87db-4904-a0b1-1f40d17066b7;AMAZON;listing_status: 0
+31cce607-d249-4919-94d8-12c41ebe442d;AMAZON;owner_email_address: .icloud.com
+f6fa9e8a-f0e0-4679-aa0b-20e08927ecdb;EBAY;listing_status: 0
+8761192a-0da3-4967-821a-71c8fa006da8;EBAY;owner_email_address: cderoove@aolcom
+c1262907-079d-4f9c-bbf6-8f6f42914d74;EBAY;upload_time: null
+94e73c0f-5f19-473b-a387-8583ab0d2589;AMAZON;owner_email_address: policiesATmac.com
+3749330f-1b3f-4412-a894-0837f963fa3a;EBAY;owner_email_address: cderoove@aolcom
+ff00d1a9-51b7-4483-a7d3-453e4e5062ae;AMAZON;owner_email_address: policiesATmac.com
+3d182daf-922e-4cfc-9f9d-fdf49ba80ddc;EBAY;listing_price: -30.87
+f507fedf-fb0e-45cd-8941-ec3bbb7dc57d;EBAY;listing_status: 0
+bb972bc5-faae-461f-853f-815798324272;EBAY;listing_status: 0
+921715d6-f42f-4cd0-9d90-c32bcd577dbb;EBAY;owner_email_address: outlook.com
+cb7035e2-e1fa-42d6-965b-abb5c0c90654;EBAY;listing_status: 0
+789d4ec4-c4ca-428a-917f-b73a955e8f5d;EBAY;listing_status: 0
+ce8f3c39-d4ff-44b4-b537-3d077de2607e;EBAY;owner_email_address: outlook.com
+82ac5dfc-2154-462d-a5a4-3f8abac50106;AMAZON;listing_price: -78.52
+bd757c27-0ef7-4f3f-8351-f888f6a2e7a1;EBAY;upload_time: null
+debddc0a-685b-498d-9a7e-450943de29de;AMAZON;upload_time: null
+f46b59af-53c1-4fb7-962d-4c6c884bb02f;EBAY;owner_email_address: cderoove@aolcom
+e81cfbe9-0c53-4715-916d-6e632accfe7d;EBAY;listing_status: 0
+6a5093a7-265b-4bd1-8b8d-3797dd8d9d48;EBAY;listing_status: 0
+ba820e8e-dc1f-44c7-a6dd-3691e13bdcf8;EBAY;listing_status: 0
+b74096b3-38c1-4af1-8381-1cab012d9091;EBAY;owner_email_address: policiesATmac.com
+cb7a7b69-f277-484a-ad2b-58d1fd68459f;AMAZON;listing_status: 0
+ca327818-6d69-4ce4-9b4f-8673b31142e9;AMAZON;upload_time: null
+1aa8e79b-99d5-456f-9d18-e23acae33255;AMAZON;listing_price: -22.61
+e90c57aa-d96f-41b4-805c-a8be8b2b2a50;AMAZON;listing_status: 0
+b876e129-e888-4fdb-9e91-b5e985f6a5a0;AMAZON;upload_time: null
+ee37d8b9-060e-49ce-ac26-38f9560de1f2;AMAZON;listing_status: 0
+7fc5406f-05f4-4fd4-b683-0d70fb853622;AMAZON;listing_status: 0
+f65a4c04-7b7b-4d51-9a48-decca3b7b7b8;EBAY;listing_status: 0
+52297899-a47f-4441-ab8f-d14e098304cc;AMAZON;listing_status: 0
+f96cb9c3-6d1c-4eba-8ca5-dc3f5b520a9d;EBAY;listing_status: 0
+184fd72f-7616-46a2-847a-7915db09269d;AMAZON;upload_time: null
+44fa3ed1-c59c-4684-b84e-0329f7bd7245;EBAY;listing_price: -69.76
+bc036c68-c05c-4001-a8ca-4ba862611764;AMAZON;listing_status: 0
+0335e808-49a9-4af9-b929-fcd57e2d2a74;EBAY;listing_price: -4.76
+afd371d9-b481-4ca4-90b7-9671d9c3e0f9;EBAY;owner_email_address: cderoove@aolcom
+66556f3a-b297-4eb1-a9a1-3176d52d7a59;EBAY;upload_time: null
+5d9be9c4-ba99-4d38-8f2a-e04808531c50;EBAY;listing_status: 0
+76f50305-2d93-42a8-828a-5ad36ba16def;AMAZON;owner_email_address: .icloud.com
+55c582cb-e574-4702-9115-79e2f18e1aa7;AMAZON;listing_status: 0
+197c4a65-6b74-4356-ac4d-9224915ce7bb;AMAZON;listing_price: -64.03
+c89de57c-9113-454a-a6c8-29ab71980bf7;AMAZON;listing_price: -78.07
+c0f52236-2b2a-44c7-ab9c-1d58a9c7ce77;AMAZON;owner_email_address: outlook.com
+1a586488-7c45-4672-b282-11d67d1e91f1;EBAY;upload_time: null
+223cfd95-cf6b-4497-a495-8c6e19320889;AMAZON;listing_price: -12.16
+716ace78-d242-428d-a5bc-5d481b6f1e72;AMAZON;owner_email_address: outlook.com
+7b6ab74e-a1fc-4552-8f01-a31f083bd8e3;EBAY;listing_status: 0
+386302be-56b1-4b06-8645-a8ca20bb0a00;EBAY;listing_price: -98.32
+7ac2f667-aff0-410d-b93c-7a8a12e0a9ca;EBAY;listing_price: -54.75
+fbc55c70-7b3e-4c2c-bd42-9a7022fe5774;EBAY;listing_status: 0
+f82c564a-4678-45a4-887f-08501a40bfbd;AMAZON;listing_status: 0
+7846da70-e3e6-4148-9132-f6f96b4cc714;EBAY;owner_email_address: cderoove@aolcom
+c4276521-7460-4272-8adf-96a6af1742de;AMAZON;listing_status: 0
+cd6dd28d-6de8-4477-a645-a770a8c7a831;EBAY;listing_status: 0
+51335249-c46f-49ab-a09c-1350f5ecd69c;EBAY;listing_status: 0
+486098df-80b8-4c42-b25c-55b4cc56ccda;AMAZON;listing_status: 0
+13645a9a-c7e6-4cb4-9213-6a211d67cd9a;AMAZON;listing_status: 0
+73aaf92a-ccb8-401e-9e43-e10442da0418;AMAZON;listing_price: -89.0
+60e5c6b1-2319-40b7-874e-ac958cb08a4a;AMAZON;listing_status: 0
+fb80a7c3-a410-40ef-ba79-13b7f44309e5;EBAY;listing_price: -63.55
+85b42fdb-fdfd-4eb0-a305-f98b3718ec9c;EBAY;listing_price: -12.05
+74492b98-fe65-4933-809a-16c420550f7e;AMAZON;owner_email_address: outlook.com
+e7f2d5d1-8cae-4051-8d3d-fe52272f67a8;EBAY;owner_email_address: .icloud.com
+e6efd9fa-3e6e-403e-891d-ee88aeccb958;AMAZON;upload_time: null
+ccb18096-17d9-4751-91ce-0243a2563267;AMAZON;owner_email_address: .icloud.com
+94da78bc-0a06-46b3-ae9d-19ed9f94cddc;EBAY;listing_price: -75.24
+1b2326b4-1471-420b-a830-e6460d6c6f45;AMAZON;upload_time: null
+bb8dc04c-99a6-45dd-bec6-7576ed3bacc4;EBAY;owner_email_address: cderoove@aolcom
+31acf037-3f17-42db-8096-21a91b5f5821;EBAY;listing_status: 0
+ce226a96-101b-4c68-884a-748935878f94;AMAZON;listing_price: -96.13
+ad6d9071-0360-4a6c-8c20-fbcb7f18802b;AMAZON;listing_status: 0
+cbf655d0-a9dc-4c99-a2dd-19f843aa6f2b;AMAZON;listing_status: 0
+7fecb559-df35-453a-adfa-0fae397f3d00;AMAZON;upload_time: null
+c767303a-f842-4cd6-93c2-4c7fa5ef06c1;EBAY;listing_status: 0
+de96c9f3-b4a6-443c-b43b-9a17e3251cb7;AMAZON;owner_email_address: policiesATmac.com
+f6642869-52eb-4883-a34a-f4ff68ab57ac;AMAZON;listing_status: 0
+39c2a839-505a-43dd-a213-269acb357d17;EBAY;listing_status: 0
+a5e90e67-2c8e-43a0-b0a9-adee95ead059;AMAZON;listing_price: -88.68
+98342099-54e9-4ffb-8c4d-d8c27e9aa4d7;EBAY;upload_time: null
+d468ca19-f838-459a-bd55-bd9eca49f7a7;AMAZON;owner_email_address: .icloud.com
+159996bd-96f8-4ead-88cc-b3f3092f3534;EBAY;upload_time: null
+177e6d6d-ab8a-42e6-8a7a-5c74ff498644;EBAY;upload_time: null
+d64cec3a-5188-46ac-b918-247826e101c5;EBAY;listing_status: 0
+4dc71f75-95b3-4097-a932-694f8d6642a1;AMAZON;owner_email_address: .icloud.com
+d1efcaae-1d1b-467f-90c7-70395bcd50e3;EBAY;listing_price: -30.15
+88fdeb7c-b4db-47f9-8235-d5683ff783e9;AMAZON;listing_status: 0
+196dc0bb-9013-4196-8196-10c217adc853;EBAY;listing_status: 0
+9c2d9f4e-d2aa-4e8a-81da-660f831e1b8d;EBAY;listing_status: 0
+807abfcc-0a83-470c-a158-f66353f499d6;AMAZON;owner_email_address: .icloud.com
+bf8dcdd7-a139-4f11-93d7-50a5dfb6ab55;AMAZON;listing_price: -42.75
+d49ad20a-b675-4da0-9f00-6f12483321ed;AMAZON;listing_status: 0
+8c94c069-76a6-4a3f-8d8b-af339230d276;AMAZON;owner_email_address: .icloud.com
+72d01a1d-3bdc-40d2-b485-3564c1e9f4fd;EBAY;owner_email_address: policiesATmac.com
+b3bff673-8f90-4a8b-acb8-013a2d4fa40c;EBAY;upload_time: null
+1122a29b-d024-4254-a091-9f34b8b2130c;EBAY;listing_status: 0
+42e041e7-e81e-4897-b30a-e840c1cb0879;EBAY;listing_status: 0
+e6a8260f-54a5-4521-a240-6aea33ea0e4c;AMAZON;upload_time: null
+bc6432b2-4a34-4e5c-b1ad-b65f7dbe5cb3;AMAZON;upload_time: null
+d02f0052-5283-4514-b16b-f62cd95af15f;AMAZON;listing_price: -88.8
+2ad96e67-ac57-4e24-8531-efd088f1b213;EBAY;listing_price: -49.69
+e9bba558-879a-4659-84bc-3eee6e4e5c53;AMAZON;owner_email_address: .icloud.com
+73d541c7-4010-42c6-b1b2-e3079e6cbf19;EBAY;listing_status: 0
+935049b0-64ba-4574-b006-745b6f29e19c;EBAY;listing_price: -35.35
+3f7b70d2-649a-4472-8481-c9a953dd4dce;AMAZON;listing_status: 0
+fe1a6f11-eb5b-46b0-91aa-56adb5b57543;AMAZON;listing_status: 0
+d5f1cde9-3a1b-434a-a415-a2f141614c25;AMAZON;listing_status: 0
+de7cd64a-10a4-4bb5-9e2c-b2eef6328cc4;EBAY;listing_status: 0
+d023f56b-3714-4f00-8d18-963e68ac9c80;AMAZON;upload_time: null
+229be6ca-64d6-4d54-9af3-d1eeb24144ba;EBAY;upload_time: null
+db751137-9e62-4f14-bb2b-0ddf8945ea29;EBAY;listing_status: 0
+b4170af8-30c0-44a4-847e-a64d7ad0c443;AMAZON;listing_status: 0
+4511739d-d9a1-4eba-b5e3-97e093f40794;EBAY;listing_status: 0
+b91e0153-d0dc-4181-a21e-b191bd5afc87;EBAY;upload_time: null
+8e489a17-8d7f-46d7-94c6-5b2344b3ce29;AMAZON;owner_email_address: outlook.com
+af96ec23-4790-4c02-ab11-83c83f41e189;AMAZON;listing_status: 0
+c6704ce7-30ad-4611-97be-7c7ea9cb6ed4;AMAZON;upload_time: null
+4c4438a9-946c-4a8f-a920-9dba6e4c1b2d;EBAY;owner_email_address: outlook.com
+af568fa4-5848-4afb-9588-3ba996e5d89b;EBAY;upload_time: null
+a974b650-a567-4399-91bb-6ddab2705588;EBAY;owner_email_address: cderoove@aolcom
+19bfd4f5-c238-4b05-965d-c593cdf6899d;EBAY;owner_email_address: policiesATmac.com
+49f8ca50-61a3-46dc-b34a-b09074e585ce;AMAZON;listing_status: 0
+c78c3517-83e6-40ff-9ee0-2ffbf29cd004;AMAZON;owner_email_address: cderoove@aolcom
+d2edae45-9d9c-4fb9-843e-f61a1c180b4c;EBAY;owner_email_address: policiesATmac.com
+e17da4cb-0e74-40d4-92d4-8b31814e2f1c;AMAZON;listing_status: 0
+f18c6ecd-701e-4fc9-b18a-b5256722b30c;AMAZON;listing_status: 0
+50f4c53e-5084-47ad-b28b-49880d5fb1f6;AMAZON;listing_status: 0
+45d46310-94ee-458d-a773-67f994769493;AMAZON;listing_status: 0
+e33412d4-5557-4ba2-9ff0-27ec7ef56dd5;EBAY;listing_status: 0
+57d26b27-e7d2-4deb-9361-c23ee042e76e;AMAZON;owner_email_address: .icloud.com
+45a29035-809f-4e3f-a182-913f2e48c73c;EBAY;listing_status: 0
+1d7045ee-a3b0-4f20-b9d1-288bb1cebf24;AMAZON;listing_status: 0
+00206ff9-e120-41f1-a97b-14047b51742a;EBAY;upload_time: null
+ffe69cd6-07bb-47ba-95d6-930ba377045b;EBAY;owner_email_address: .icloud.com
+0529aa3b-b275-4368-b61e-beab4e2b4c15;AMAZON;listing_status: 0
+6a34eb22-ab99-43f2-aa81-f5beafb2cf6f;EBAY;upload_time: null
+987bcdee-8507-42d0-a71d-da51c37d4689;AMAZON;listing_price: -68.41
+b35b7c43-70ce-4347-b82b-4daa226821f8;EBAY;listing_status: 0
+7b7588dd-b101-490e-b08d-4c8e87f37a1d;EBAY;owner_email_address: cderoove@aolcom
+41a0eded-b840-4006-9ec9-3cb37be94825;AMAZON;owner_email_address: policiesATmac.com
+4de90277-928e-4851-9cfd-853fea98165b;AMAZON;listing_status: 0
+4308e69e-c9c6-4ca8-8cbc-f91a9267acd3;AMAZON;listing_price: -68.7
+3f0ca168-645e-4b29-a97a-a2caa0502c7a;AMAZON;listing_status: 0
+cb5286ed-f6cd-401e-98d9-572f2fa56262;AMAZON;listing_price: -10.67
+bcf0ae55-fa9a-4737-ad7b-34a1b41ac7c6;AMAZON;owner_email_address: cderoove@aolcom
+929a31e5-74f9-4f71-92cc-8658ea697798;EBAY;listing_price: -40.19
+889dd9e6-e7db-4810-a01b-131f0b49dabe;EBAY;owner_email_address: cderoove@aolcom
+3771b105-ff95-453c-88a5-c5b7446da3c8;AMAZON;listing_status: 0
+f7f17860-4166-4462-9200-83554ca60698;AMAZON;owner_email_address: policiesATmac.com
+fd1f893b-96ef-42f1-865c-8b09fc3865aa;AMAZON;listing_status: 0
+6a0e118f-7d2e-4d21-a46e-43793dfb4514;EBAY;listing_status: 0
+558385dd-a0b7-44a4-9216-1680a17e46ce;EBAY;listing_status: 0
+0b377de5-e762-4356-9183-e0b9889226c1;AMAZON;owner_email_address: policiesATmac.com
+581fdbbc-46c0-49d3-9db0-ef59c62c9d56;AMAZON;listing_status: 0
+bb14905f-b5e3-4c25-bb31-7db8cfc083a7;AMAZON;owner_email_address: outlook.com
+e614d7bc-20d6-411c-a074-ea7b80f8f6b9;EBAY;listing_price: -96.58
+e3e31279-91c2-40b7-898d-bc01438ddad2;AMAZON;listing_status: 0
+aa5dde20-6b0e-4790-9948-8fb530adea20;AMAZON;listing_status: 0
+b6b59051-b1a5-49f9-830b-ab3abf81f1d3;EBAY;listing_status: 0
+819b3843-9d22-4492-852d-ca8cfbe0620e;AMAZON;upload_time: null
+524884e4-27ef-436c-8c4e-910c5a7138f3;EBAY;upload_time: null
+098e91f2-8d3c-45ad-a67d-ee9f63241d81;AMAZON;listing_status: 0
+9751caa8-b913-455c-abf2-4286ade3f010;EBAY;listing_price: -11.18
+280e1ac5-ef10-4cea-940b-e704e4ea9765;AMAZON;listing_status: 0
+46f34a2c-ad4c-414e-9dc5-32ecefa00fe5;AMAZON;owner_email_address: policiesATmac.com
+de04a8fe-b2a0-4f58-b30d-c6a912a828de;AMAZON;owner_email_address: outlook.com
+7065c882-3239-4e17-8557-77df0015459c;AMAZON;listing_status: 0
+64d0f65f-91d7-46d1-86e9-f8edcca07685;EBAY;listing_price: -86.8
+b1dc89ca-d2e2-4e90-be82-5aaa53f4084e;AMAZON;listing_status: 0
+c4320d11-5dcc-4c80-b3a9-9676809b63cc;EBAY;listing_status: 0
+8ef126d5-090e-4740-9c4c-009f6ecaf3ff;EBAY;listing_status: 0
+077aac67-bebb-476b-bf53-8b9602f9e2e8;AMAZON;owner_email_address: policiesATmac.com
+8f1fe0ed-b741-4973-b243-17e3aaeda7e0;EBAY;listing_status: 0
+5ef6d579-cb6f-49ae-b463-4dc4f56bf211;EBAY;listing_status: 0
+0ad84027-3e52-432d-99f8-b0c5d8f8ae28;AMAZON;listing_status: 0
+5a5a7e0c-7581-44b2-b214-317dc376090f;EBAY;listing_price: -90.52
+52570518-abfe-4779-9e27-0eba835cca2f;AMAZON;listing_status: 0
+93b0e64c-6b40-4755-a797-e74db521f353;AMAZON;listing_status: 0
+f0f45117-a5a3-4954-b671-8a4c35718eea;EBAY;listing_price: -38.68
+53d7dada-8882-4cbc-88a2-e03accf27ee2;AMAZON;listing_price: -61.19
+1d085352-d032-4492-8c6a-07fbd0145ac9;AMAZON;listing_status: 0
+6f4aebe2-1da2-4fff-b3b8-5d91a5013aec;EBAY;listing_status: 0
+11a0015d-e110-4763-ab9a-f64b9208ac04;EBAY;listing_price: -56.51
+fccdb1bc-08af-4d09-99b1-7e7b90bef0d0;AMAZON;listing_price: -77.67
+f8dd8c4c-a917-4349-b838-d8520e909d92;EBAY;listing_status: 0
+f3686914-705f-4df8-ad03-563ec120798f;AMAZON;listing_status: 0
+4b525171-ddb9-4d5b-8080-547d83c5d739;EBAY;owner_email_address: .icloud.com
+9ce7021d-fd2d-44df-9159-bedb2188af85;EBAY;listing_status: 0
+521d733d-428d-4f0f-aa2c-833cf2883d34;AMAZON;listing_status: 0
+7f2d16ae-49a9-4f57-8277-b9b55398c209;AMAZON;listing_status: 0
+a49df2b9-6424-49f7-90b0-b06c786a4563;EBAY;listing_status: 0
+78544efc-e2b3-4fec-ab23-005b1e1abb36;EBAY;listing_status: 0
+d59e4e40-28e3-4550-952f-7face3903684;AMAZON;listing_price: -80.32
+f80068df-6866-4b68-bd8c-3258a7d8dfb0;EBAY;owner_email_address: .icloud.com
+95c14450-0188-4211-8303-9811ad90b8e9;AMAZON;listing_status: 0
+391f5b81-0c81-4a59-b53f-6a05e5bb9af9;AMAZON;upload_time: null
+bdad15b2-13fd-4ff5-a2df-fcebed1f6f2d;AMAZON;listing_price: -41.33
+fbebd4a8-b41f-435e-8f5a-7b291eaa0646;EBAY;listing_status: 0
+1203fd83-667b-4786-be5a-b63493180ce7;EBAY;owner_email_address: cderoove@aolcom
+6a271885-5349-4de9-8ada-bbb85fb18391;EBAY;listing_status: 0
+86ce0ea2-4d9f-4a99-be6f-5e22c88f2d74;EBAY;listing_status: 0
+fc6f0090-6fad-41b5-b42f-95f86a328dae;AMAZON;listing_status: 0
+33b35f2b-9531-44d2-a17e-faaa2fdc8769;EBAY;upload_time: null
+1135933f-f3dc-4742-bba0-cd481940e9ea;AMAZON;listing_status: 0
+61ade84a-b176-495c-80f5-6f51afb0679b;EBAY;listing_price: -46.07
+814c4804-bd8b-4b3a-b31d-e2efad2e088d;EBAY;owner_email_address: cderoove@aolcom
+6fc1b95d-1f9a-4f60-88e4-65524d86f63a;EBAY;listing_status: 0
+9ba6338d-8375-4cfd-884e-c9cd8465b6ff;AMAZON;upload_time: null
+f49303b9-c555-4175-838f-c8a874ecc090;EBAY;listing_status: 0
+4d60e9ee-f644-4b5f-923c-34549e54ba96;EBAY;listing_status: 0
+4a84f126-0933-4d55-a5cc-f1f3ecd410de;AMAZON;listing_status: 0
+0b621da0-181c-41bd-8646-7eb9f30295a6;EBAY;listing_price: -77.34
+8a89bba3-ed5a-4fce-a9d1-6d0231224a50;EBAY;owner_email_address: outlook.com
+522982b9-f149-4700-8171-6e1d1b73691e;EBAY;listing_status: 0
+3834acf3-7eb4-4e44-a40c-026b5f689045;EBAY;listing_price: -67.5
+a2f15f4d-1e27-4126-aa1e-16a4f41db8db;AMAZON;owner_email_address: .icloud.com
+4c82ffca-6a68-41c8-8371-a53baf333d81;EBAY;listing_status: 0
+cd452837-aa94-4505-9726-cfa29cae57c1;AMAZON;owner_email_address: outlook.com
+90778145-30ba-41ac-8211-aad90516f87a;EBAY;owner_email_address: policiesATmac.com
+4914787f-dd79-4670-b46f-b429ffa30f26;EBAY;owner_email_address: .icloud.com
+65dd023c-aca7-4b3e-a6af-7a789562883e;AMAZON;listing_status: 0
+77042d02-2fde-4c31-8db9-ee4d79717ed1;EBAY;upload_time: null
+da840e85-dff5-4070-bab2-38430923981f;AMAZON;listing_price: -13.34
+e41a7ff4-577c-4553-9617-5cdb73bda9d7;EBAY;listing_status: 0
+017b7805-0c6e-4def-9697-4fe1f2790892;EBAY;owner_email_address: cderoove@aolcom
+645b9076-6449-4b56-83bc-9cf4b69774d4;EBAY;owner_email_address: policiesATmac.com
+4c0fd639-fe86-4b30-a4b0-326902aaa342;AMAZON;listing_price: -12.15
+e8acdb61-9347-4d2a-a758-258dea8513d2;AMAZON;upload_time: null
+ace80398-298f-49c7-99f8-935a50bb6a31;EBAY;upload_time: null
+597b1aed-2f24-46f2-9a12-9d1cee69b59d;AMAZON;upload_time: null
+fd56da04-aacb-45fb-801e-b601b7274c20;AMAZON;listing_status: 0
+88dba9fb-fdd3-4a85-a8c2-bd8238acbd1d;EBAY;listing_status: 0
+0b818fc1-42ee-4914-b7f0-e8f66ff59c57;EBAY;listing_status: 0
+658da322-b287-46d4-bc68-800e06ea081c;EBAY;owner_email_address: outlook.com
+76270da7-8777-46f6-a1a3-c14ff7b3b47b;AMAZON;listing_status: 0
+9d28d269-a1db-4149-8e02-78878787fa72;AMAZON;owner_email_address: cderoove@aolcom
+40ef2bf3-05c3-412d-a7e5-254a311abddb;AMAZON;listing_price: -28.45
+318198a8-c57d-44ce-a477-202611675f9d;EBAY;listing_price: -76.78
+52c96ebb-71ee-48e2-9f81-647bd46b3255;AMAZON;listing_status: 0
+509d0ed8-ff35-4d37-be07-66a64a2cc129;EBAY;listing_status: 0
+9131c0ef-92f8-4404-b524-04f121e3d43e;EBAY;listing_price: -97.16
+829ad418-bcb3-48ec-bb8a-fd6ea6679ace;AMAZON;listing_price: -83.43
+db84b91e-b672-43a3-b244-5a8ffd315fe4;AMAZON;owner_email_address: .icloud.com
+98123bf7-acaa-4432-a116-ed7425268689;AMAZON;listing_status: 0
+563caeef-ac02-4bcc-89ee-40144fbdab76;AMAZON;listing_price: -63.45
+73065c23-bdc6-4c58-a1be-5c02671f13ef;AMAZON;upload_time: null
+35dc7df2-e439-4620-bcba-576c860b5ac0;AMAZON;upload_time: null
+c0f0fb0e-cb7c-44ae-a409-c6816c328502;EBAY;upload_time: null
+24749520-a325-418e-aa9e-1ec794ae16f5;AMAZON;upload_time: null
+30bf7fe7-6477-40e8-b809-3cc8eef8c6cf;EBAY;upload_time: null
+5861756c-9f83-4578-abc0-2ccefc61fecc;AMAZON;listing_status: 0
+ca6255a4-d788-4d0b-a03e-d66a53f9d865;AMAZON;owner_email_address: .icloud.com
+2f628a2b-2e62-4a32-8d28-020133911b31;AMAZON;listing_status: 0
+e2950207-6fe5-4bcc-a6ab-691234f7ac52;AMAZON;listing_status: 0
+91920515-06ba-4912-8384-8c0842bb2719;EBAY;owner_email_address: .icloud.com
+a889190a-9e37-465b-9250-ff09216edc7a;AMAZON;owner_email_address: .icloud.com
+28cdb374-b85b-45df-88d4-c43604360562;EBAY;owner_email_address: cderoove@aolcom
+69300718-1432-418a-b9e4-c4c0b9677930;AMAZON;upload_time: null
+8ca8c18e-1fbe-4ac7-8f1b-a9fdda97966a;AMAZON;listing_price: -29.81
+e802c441-3dac-48bb-9a56-5e243d6b6ccc;EBAY;listing_status: 0
+e5236ae7-1605-4e3e-a845-d3488c4f5af0;AMAZON;upload_time: null
+454bc96f-baeb-48e7-a0dc-71a221bf6ad9;AMAZON;listing_status: 0
+84b3a8a9-21e2-4b56-9213-3e61d5318719;EBAY;owner_email_address: .icloud.com
+cbed9fdf-ab51-453e-8f5d-a706747575e4;EBAY;owner_email_address: cderoove@aolcom
+8f8826e9-f4df-4f3e-a772-9a011d2a5fb1;AMAZON;listing_status: 0
+83543a40-299a-4183-af1b-a41757bab597;AMAZON;listing_status: 0
+1549a5df-1b86-4de1-99c9-a664b7cc5aff;AMAZON;owner_email_address: .icloud.com
+f2070cc6-e132-4cd0-8cff-5bd3340a27cc;AMAZON;listing_status: 0
+a940c774-f5a6-4524-bb9a-712e754010a6;AMAZON;listing_status: 0
+f829fa89-3c97-4064-82e4-77887f44d540;EBAY;upload_time: null
+0269328d-2320-4447-a96a-fe0d6a04a2d7;AMAZON;listing_status: 0
+144182bc-c89a-4350-8f21-945384ce5a18;EBAY;listing_status: 0
+6c71efec-e1f6-4ebb-ada9-575e2e10006d;EBAY;owner_email_address: policiesATmac.com
+4d0f7987-f337-47bf-85cf-63ef12a1f4d4;AMAZON;owner_email_address: policiesATmac.com
+03921c30-dddd-452e-a882-e80902df4433;EBAY;listing_status: 0
+51532162-90d1-48fe-bd06-77613083589d;EBAY;owner_email_address: .icloud.com
+afc0ba19-f05e-4d07-8bfe-30ccf2a7ba8a;AMAZON;listing_status: 0
+6115ccb4-66d8-44b5-9bf2-5a6d07587982;EBAY;listing_price: -85.83
+718a858a-79b2-4916-b7a6-0d840191c10a;AMAZON;listing_price: -22.03
+6ab938b1-f7a8-432a-8ccf-fd10edad117c;EBAY;listing_price: -27.26
+3dc1daca-29e7-49f4-a8fb-1cb7212461a1;EBAY;listing_status: 0
+c42b16be-81d2-4c24-bc1b-8add2e98943f;AMAZON;owner_email_address: .icloud.com
+c369c5ec-9c43-4678-ac42-6d3ed76f290a;EBAY;listing_status: 0
+dbe64db5-e194-46c3-aad1-623b70c323a0;AMAZON;listing_status: 0
+9435a8dd-12a2-43bf-9d69-6756f3edbb4d;EBAY;upload_time: null
+475b86a3-6a32-44a0-8256-650c25e40fab;AMAZON;listing_status: 0
+7e49f450-1bbb-47ab-8ec3-afefc3569d74;EBAY;upload_time: null
+9462881c-8862-46d7-8e12-4baa993661f8;AMAZON;listing_price: -5.1
+7ee86942-2171-4a43-9430-1fcc9ba356ff;AMAZON;owner_email_address: cderoove@aolcom
+edbccd2f-fe50-4287-b5c3-0ce56ec64d5f;AMAZON;upload_time: null
+b6d0670c-d5ab-4a96-ac26-a907b2bcdb21;AMAZON;owner_email_address: .icloud.com
+210c3271-12f5-426e-a7dd-f118d16b1282;EBAY;listing_status: 0
+b54036b4-394a-441d-a7a5-3c53be5266b4;EBAY;listing_price: -48.19
+d14e2527-e973-4101-978d-0a025dbc080c;AMAZON;listing_price: -78.51
+72650ab6-c130-4d21-9ffd-7223f811fbe9;AMAZON;listing_status: 0
+5cd2ce1f-db8f-4fa9-a83f-8683e27804ab;AMAZON;listing_status: 0
+8eb9b501-7c09-4ad2-b2dc-dc57dcb2cd25;AMAZON;listing_status: 0
+e913057f-8f8b-4a5d-8f58-0d8b800d5f4d;EBAY;listing_status: 0
+fbce560d-7457-4e06-97e4-eec36a54a8a3;EBAY;owner_email_address: outlook.com
+95305f94-fac1-4fa6-8d6d-f4dbbea2bf8d;EBAY;owner_email_address: cderoove@aolcom
+d9822882-7fc1-4f1d-b1bf-b46fede21d4b;EBAY;listing_price: -32.99
+ef5ff0a0-9a65-4f92-a695-d85de8212d93;EBAY;listing_price: -64.19
+1cc48afc-d620-4c7e-943c-c46d7466ba5e;EBAY;upload_time: null
+ca834925-c006-46ca-9596-34461cc82748;AMAZON;listing_status: 0
+e76c610e-7325-4b85-ba5a-769449e6db44;EBAY;listing_status: 0
+52464b41-9397-4d79-a4ad-b8dddfdce4d7;EBAY;listing_status: 0
+e321ee2b-e60a-4514-aa94-edc45dcc768f;EBAY;owner_email_address: policiesATmac.com
+6d9645e6-e006-4a63-a6e5-6957c7f1e78c;AMAZON;listing_status: 0
+490fdcea-b651-48b9-85d1-78cdbf897dd3;AMAZON;owner_email_address: policiesATmac.com
+34562706-f5dc-4594-b4dc-96855f98c3b6;AMAZON;listing_status: 0
+0b856102-269c-42c4-893e-1d772b784e04;EBAY;listing_status: 0
+d2c4c248-c508-4eb5-9f8c-57d038e76db3;EBAY;upload_time: null
+3688c167-e7c1-45ae-8594-111139e254d9;AMAZON;listing_price: -36.04
+ca65a16e-7b85-44d3-bd46-fb2dd1d0f720;AMAZON;listing_status: 0
+5d115222-cf1f-444c-b2f5-fbca6ae32d46;EBAY;owner_email_address: outlook.com
+a7582ac9-4241-4c8b-8e10-90ed92e1a8f1;AMAZON;upload_time: null
+0bfc08ea-242e-43f4-bfe4-113c63cc7a37;EBAY;listing_status: 0
+ab1cd397-658b-48d9-86ad-e9ad1c7f4ac5;AMAZON;listing_price: -66.03
+15d043ee-69f2-49c2-975b-be51e5d8d848;EBAY;listing_price: -13.83
+4d8c6bd4-8ba1-436d-a0c3-abe2deeac30f;EBAY;listing_status: 0
+8435cf17-8f7e-4644-bf59-9687deb1e373;EBAY;upload_time: null
+a8bc063f-773d-4e2c-b168-d7b81f59368e;AMAZON;upload_time: null
+ab839af4-a393-43b6-862c-8b20f9ccbf49;EBAY;owner_email_address: outlook.com
+4447b788-a927-461c-96d8-5e6976b084a5;AMAZON;listing_status: 0
+32278fc0-d6c5-4480-b9e0-279e5d2ba342;AMAZON;upload_time: null
+474b40f8-6fa6-4dc2-b321-5cdaf6858116;EBAY;listing_price: -9.31
+6e379e1c-5246-446e-8804-0a7b02574872;EBAY;owner_email_address: policiesATmac.com
+289b28cb-45fb-4461-94a4-f77d0adfe421;AMAZON;listing_status: 0
+ec2a4cb1-7d23-406b-9043-3b2b54e12659;EBAY;listing_price: -77.66
+1634329e-0a11-413c-b5c2-80d2d98f143f;AMAZON;listing_status: 0
+7b2b9181-fe2c-44ab-8cba-23a0d96c14d3;EBAY;owner_email_address: policiesATmac.com
+77e34fe8-d1b2-4a72-a39a-3b61f137d031;EBAY;listing_status: 0
+aaa9c7a0-cf87-48d5-ba11-f588943f081c;EBAY;upload_time: null
+520a8699-7c3b-4ee7-b29a-26abebf2ecd7;AMAZON;listing_status: 0
+47978523-9fc9-44cf-a949-cd0b7dc9487f;EBAY;listing_price: -74.02
+14e2ebea-d38b-40d6-b0b4-4c9ae761a0f1;EBAY;owner_email_address: cderoove@aolcom
+ae48f324-8743-4cd1-8e41-99f7ce579b24;AMAZON;upload_time: null
+f370e617-f125-4f4a-a088-525405c954d4;AMAZON;listing_status: 0
+78419f36-4018-4fab-ae45-811829c25416;AMAZON;listing_price: -31.66
+7912b0e7-b2de-41b6-a949-8434203a50cc;AMAZON;upload_time: null
+56435980-81d4-4044-bd5d-5a461ed35bd3;EBAY;listing_price: -44.44
+615a2fdb-eff6-4205-bd51-e558067f36da;AMAZON;owner_email_address: .icloud.com
+980d6ef8-2ac3-49ea-ac43-d0e394f4e747;EBAY;listing_status: 0
+c6394880-3a0d-44d4-8df6-1193d47d7d68;EBAY;owner_email_address: outlook.com
+8a0437e5-fd5a-4494-af5f-345378104737;EBAY;owner_email_address: policiesATmac.com
+5e517e8a-7a95-4941-b0d7-b3dbccbe4c79;EBAY;owner_email_address: cderoove@aolcom
+14da3af0-aab3-470d-bac0-acc230c298be;AMAZON;listing_price: -29.34
+89d11b4d-5ef9-4bed-9502-acf90ce8d33d;AMAZON;owner_email_address: outlook.com
+87aece0b-0191-44e5-92b7-18d7ee5ddd18;AMAZON;owner_email_address: outlook.com
+063a5235-45fc-4f1c-bd18-1a52577abe2b;EBAY;listing_status: 0
+0e3d825e-4eb8-44c6-8748-c3adfd828325;AMAZON;owner_email_address: policiesATmac.com
+8340c290-882d-4a34-8c6e-162ab1286a60;AMAZON;listing_status: 0
+ce240399-0625-4f0a-b4bc-689ba7452532;EBAY;listing_status: 0
+99a5fbc9-fc5e-4caf-8788-0f0ae0c89264;EBAY;listing_status: 0
+5de96547-a389-4b64-b228-da88f988b1bd;AMAZON;listing_status: 0
+bc8216c3-95de-4bf5-a923-06ed61d375a3;EBAY;owner_email_address: outlook.com
+14e6b3f5-3105-441e-a685-87ee67bdb7c5;EBAY;upload_time: null
+d52c2a51-50c7-42f1-80e2-6c6a400b8074;EBAY;owner_email_address: outlook.com
+b9752879-81c9-4b4f-864b-6437c236b8fc;AMAZON;owner_email_address: cderoove@aolcom
+3c1bb6ff-ca4c-4530-ac2b-6ba16435f411;AMAZON;owner_email_address: .icloud.com
+ecf2ef96-1c98-42de-ab8b-e2ec7665aee1;EBAY;upload_time: null
+01fd1859-3c47-4892-b4a2-272d7e9cb9fa;EBAY;owner_email_address: .icloud.com
+6b2afe9b-ee1c-472d-a767-13b8c3427442;EBAY;listing_price: -10.6
+06da32be-9e18-464e-a3c8-2013455f5285;AMAZON;listing_status: 0
+b6d3ffe8-391a-4809-82b4-d22710184b20;EBAY;listing_status: 0
+dca71f0e-99f2-4842-af38-e9c71573cc96;EBAY;upload_time: null
+f1f466da-e7a4-4570-9d5e-dffbbb7cfa5d;AMAZON;owner_email_address: policiesATmac.com
+54bc3bde-b5f9-4532-9ac6-1d78df82a9f3;AMAZON;owner_email_address: outlook.com
+13c690dc-c553-4892-9883-f78d5c83522b;AMAZON;listing_status: 0
+2644df9f-989e-4d04-8530-7aa1b05563d2;AMAZON;upload_time: null
+4ff84ce8-b97f-4f18-9d91-e130002f3e24;EBAY;upload_time: null
+f737543a-d42a-4e6b-a609-7980d3614611;EBAY;owner_email_address: policiesATmac.com
+00601611-395e-4633-9ffa-277d806f7188;EBAY;upload_time: null
+d751afad-433e-46d0-b3e2-0217056fef42;EBAY;upload_time: null
+64df75e4-2ee5-4cc0-939c-6b1918ad9d71;EBAY;upload_time: null
+1ffe086a-0cc1-4d68-9b73-0246f61ae09f;EBAY;listing_status: 0
+8cc4f15c-9512-423e-953e-f481535ac556;EBAY;upload_time: null
+75750c66-dcb4-430d-b968-0035d169a816;AMAZON;listing_status: 0
+28282ae8-f3c9-4867-a3cc-179e9a410b1c;EBAY;listing_status: 0
+54b228d0-9b74-44cd-924b-5d356fcba124;AMAZON;listing_price: -25.49
+d4f529ba-5727-48f4-af2e-53ca6879585c;AMAZON;owner_email_address: cderoove@aolcom
+b3f4a32a-6bf7-4d5a-8d57-015a23ffaada;EBAY;owner_email_address: cderoove@aolcom
+1275289e-bd4a-463c-90f1-2d5e07fc6b16;EBAY;owner_email_address: policiesATmac.com
+e3f213bc-9618-4f6d-8abf-fa8e37db6309;EBAY;owner_email_address: policiesATmac.com
+deb4efcf-cf82-4b36-a097-57caa8d29866;EBAY;listing_status: 0
+fb45f263-4d9d-4a4a-8718-911acbc88a39;AMAZON;listing_price: -24.98
+dfb0c842-104a-4dd5-9702-5c9b63bcdbad;AMAZON;listing_status: 0
+8920a1f4-1e29-43b5-b118-27020ef7e930;EBAY;listing_status: 0
+bc7118c1-91c8-4228-bad5-5a1d410bc0fa;EBAY;listing_status: 0
+95df686a-4756-4ee1-8485-b0a521483cf1;AMAZON;owner_email_address: cderoove@aolcom
+7fe2ea04-f992-4900-8157-a8f9ecc98c8d;EBAY;listing_status: 0
+8d09afed-4b37-437b-9e40-8240f70191bc;AMAZON;upload_time: null
+f35e918e-01da-41e3-af08-33f1116f9c7e;AMAZON;owner_email_address: policiesATmac.com
+5940f440-de27-40c5-92e7-f0bd4b362f1a;AMAZON;upload_time: null
+d4bb16fb-f1cc-498c-8fba-f765bae3c163;EBAY;listing_price: -46.61
+2006b728-695b-46a4-b53b-cf9f8aee7540;AMAZON;owner_email_address: .icloud.com
+282f61e0-7aad-4161-bdc8-4541837bdbe6;AMAZON;listing_status: 0
+5bb93503-6a6c-472a-b82e-0902781c0254;EBAY;listing_price: -92.28
+e4ea8dcb-006b-4407-a9d2-4e40367c6037;EBAY;listing_price: -42.11
+ee6c5807-7950-4ddc-9b3c-fe5d351206c3;AMAZON;listing_status: 0
+51766293-e2a3-40dd-87c0-018839d3ee7d;AMAZON;listing_price: -50.59
+bf4af151-008a-4f8b-b22b-6edd74643b15;AMAZON;listing_price: -39.52
+d4636de7-0c98-4405-b3ca-a700cfa28da1;EBAY;listing_price: -68.58
+993d55f6-af74-4aa8-9157-837d47a681e3;AMAZON;listing_status: 0
+9d868dd6-8476-43da-8ded-60c1875c4e01;AMAZON;listing_status: 0
+f93b578c-c3ba-46f9-8c42-5e24b2d17521;EBAY;listing_status: 0
+1a382061-844e-458b-b8a3-51fd80fad650;AMAZON;listing_status: 0
+3fd8305e-2ff5-4a4c-81e9-ee42952036f8;EBAY;listing_price: -63.97
+f7dff5b7-4e99-4d47-b11d-c59f2dfae0e5;AMAZON;owner_email_address: outlook.com
+7ad5f123-8f9d-4e9d-a182-a82d968730d0;EBAY;listing_status: 0
+47e2fa04-7eb6-425e-9d92-bbf44f1ddcb4;AMAZON;owner_email_address: .icloud.com
+6853b280-602f-4700-91cb-b96adc5c4282;EBAY;listing_status: 0
+5b1c2c99-36c0-4ad4-98be-6b3f1ed6b322;EBAY;listing_price: -70.01
+01d26c97-0352-4e67-b7da-a960878481f6;EBAY;listing_status: 0
+e1c9063a-fd02-48ea-ab39-af7a77379def;EBAY;listing_status: 0
+cea6fab5-a6bc-4a3b-beee-ec98828987f1;EBAY;listing_status: 0
+6dc4d177-1dbf-42d1-a9b6-b6bbc8ddd2bb;EBAY;owner_email_address: policiesATmac.com
+9ea728c8-c4ee-487c-912d-2be6bb085e43;AMAZON;listing_status: 0
