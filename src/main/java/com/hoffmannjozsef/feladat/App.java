@@ -11,13 +11,16 @@ import java.sql.SQLException;
  */
 public class App {
 
+    
+    
     public static void main(String[] args) throws SQLException, IOException {
 
-        MyConfig myconf = new MyConfig("config.ini");
+        MyConfig myconf = MyConfig.instance("config.ini");
+       
 
         //Adatbáziskapcsolat felépítése
         //Connect or create MySQL database
-        DBConnect conn = new DBConnect(myconf);
+        DBConnect conn = DBConnect.instance(myconf);
 
         //Adatárroló osztály példányának létrehozása
         DataStoringRepositoryImpl db = new DataStoringRepositoryImpl(myconf, conn);

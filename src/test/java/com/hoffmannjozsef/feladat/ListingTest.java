@@ -49,7 +49,7 @@ public class ListingTest {
         mplids.add(1);
         mplids.add(2);
 
-        MyConfig conf = new MyConfig();
+        MyConfig conf = MyConfig.instance();
 
         //lst = new Listing();
         lst = new Listing(conf, locids, lstids, mplids);

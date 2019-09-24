@@ -10,12 +10,27 @@ import java.sql.SQLException;
  *
  * @author Hoffmann József
  */
-public class DBConnect {
 
+/*DBConnect is a Singleton!*/
+public class DBConnect {
+    private static DBConnect instance = null;
+    
     MyConfig conf;
     private Connection conn = null;
 
-    public DBConnect(MyConfig conf) {
+    static public DBConnect instance(MyConfig conf) {
+        if (instance == null) {
+            instance = new DBConnect(conf);
+        } else {
+            System.out.println("DBConnect egy Singleton, és már létre lett hozva!");
+        }
+        return instance;
+    }
+
+    
+    
+    
+    private DBConnect(MyConfig conf) {
         this.conf = conf;
         //config.ini beállítás. 1=Új adatbázis és táblák létrehozása
         if (conf.getNewDatabase().equals("1")) {

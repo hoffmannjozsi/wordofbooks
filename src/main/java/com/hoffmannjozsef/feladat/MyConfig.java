@@ -8,6 +8,8 @@ import java.util.Properties;
  *
  * @author Hoffmann József
  */
+
+/*MyConfig is a Singleton!*/
 public class MyConfig {
 
     Properties prop;
@@ -30,10 +32,35 @@ public class MyConfig {
     private String ftpuser = "jozsefhoffmann71@gmail.com";
     private String ftppass = "srpii";
 
-    public MyConfig() {
+    private static MyConfig instance = null;
+
+    private MyConfig() {
     }
 
-    public MyConfig(String configFile) {
+    static public MyConfig instance() {
+        if (instance == null) {
+            instance = new MyConfig();
+        }
+        return instance;
+    }
+
+    @Override
+    public void finalize() {
+        instance = null;
+    }
+
+    //public MyConfig() {
+    //}
+    static public MyConfig instance(String configFile) {
+        if (instance == null) {
+            instance = new MyConfig(configFile);
+        } else {
+            System.out.println("MyConfig egy Singleton, és ezekkel a paraméterekkel már létre lett hozva");
+        }
+        return instance;
+    }
+
+    private MyConfig(String configFile) {
 
         try {
             prop = new Properties();
@@ -127,4 +154,4 @@ public class MyConfig {
         return ftppass;
     }
 
-    }
+}
